@@ -1,6 +1,6 @@
 # Global Language Endangement Data Wrangling Code
 
-This code combines a large number of disparate data sources into one data file, matching by language ISO codes and shared geographic distributions. It uses a `drake` project. `drake` is an R package providing a 'make-like' declarative workflow for projects. To run the workflow, run `drake::r_make()`, with the working directory set to this project directory.
+This code combines a large number of disparate data sources into one data file, matching by language ISO codes and shared geographic distributions. It uses a `drake` project. `drake` is an R package providing a 'make-like' declarative workflow for projects. To run the workflow, run `drake::r_make()`, with the working directory set to this project directory. Alternatively, the `drake` workflow has been converted into a sequential R script '`LangEnd_plan_code.R`' using `drake::plan_to_code()`.
 
 Note, there are a number of data sources missing from this repository, as we do not have the rights to make them publically available, or they are already publically available elsewhere, and interested parties should download the data from those source.
 
