@@ -1,0 +1,56 @@
+column_name,power_transform,transformation_name,continuous_numeric,small_add
+LANG_ISO,1,identity,0,0
+AES,1,identity,0,0
+EGIDS,1,identity,0,0
+L1_POP,0,log,1,0.5
+GDP_2010USD_10yr_median,0,log,1,27493412.145
+Gini_SWIID_10yr_median,2,square,1,0
+Ed_spending_pcGDP_10yr_median,0.5,square root,1,0
+Mean_yr_school_10yr_median,0.5,square root,1,0
+Life_exp_birth_10yr_median,2,square,1,0
+Life_exp_sixty_average,0.5,square root,1,0
+urban_change,0.5,signed square root,1,0
+world_language_as_official,1,identity,0,0
+minority_education_policy,1,identity,0,0
+world_language,1,identity,0,0
+used_in_education,1,identity,0,0
+type,1,identity,0,0
+official_in_any_country,1,identity,0,0
+hfp,0.5,square root,1,0
+built,0,log,1,3.529204164460914e-6
+croplands,0.5,square root,1,0
+nav_water,0,log,1,2.6711063172785057e-10
+pasture,0.5,square root,1,0
+pop_density,0,log,1,5.194493592226177e-5
+roads,0.5,square root,1,0
+hfp_change,0.5,signed square root,1,0
+built_change,0.5,signed square root,1,0
+croplands_change,0.5,signed square root,1,0
+nav_water_change,0.5,signed square root,1,0
+pasture_change,0.5,signed square root,1,0
+pop_density_change,0.5,signed square root,1,0
+altitude_range,0,log,1,0.13039395213127136
+roughness,2,square,1,0
+popden,0,log,1,3.6190476748743095e-7
+river,0.5,square root,1,0
+mgs,1,identity,1,0
+mgs_new,1,identity,1,0
+annual_precipitation,0.5,square root,1,0
+temperature_seasonality,0,log,1,0
+precipitation_seasonality,0.5,square root,1,0
+altitude,0,log,1,0
+language_richness,0,log,1,0
+language_evenness,0.5,square root,1,0
+languages_threatened,0,log,1,0.20065256955698524
+languages_prop_threatened,0.5,square root,1,0
+total_L1_POP,0.5,square root,1,0
+bordering_language_richness,0,log,1,0.5
+bordering_language_richness_per_km_perim,0,log,1,4.9133965261144376e-5
+bordering_language_evenness,0.5,square root,1,0
+species_endangered,0,log,1,0.03571428571428571
+species_prop_endangered,0.5,square root,1,0
+mean_annual_temperature_kelvin,3,cube,1,0
+polygon_area,0,log,1,0
+category,1,identity,0,0
+documentation,1,identity,0,0
+L1_POP_prop,0,log,1,4.2478832816722904e-10

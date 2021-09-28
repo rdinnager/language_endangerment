@@ -1,0 +1,25 @@
+[general]
+creator=R package 'raster'
+created=2019-09-30 10:47:49
+[georeference]
+nrows=63
+ncols=200
+xmin=-20037508.34
+ymin=-6345039.03925
+xmax=20037507.6599996
+ymax=6324433.43585
+projection=+proj=cea +datum=WGS84 +units=m +ellps=WGS84 +towgs84=0,0,0
+[data]
+datatype=FLT4S
+byteorder=little
+nbands=9
+bandorder=BIL
+minvalue=-30:0:-23.1570283:0:10.84026016:0:0.195469218:0:0
+maxvalue=5370.213637:4857.905544:30.3919152:7661.897063:2250.628347:198.6196751:14.71440199:2654.298963:105
+nodatavalue=-3.4e+38
+[legend]
+legendtype=
+values=
+color=
+[description]
+layername=altitude:altitude_range:mean_annual_temperature:annual_precipitation:temperature_seasonality:precipitation_seasonality:roughness:popden:river

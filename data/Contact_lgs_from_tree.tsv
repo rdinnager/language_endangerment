@@ -1,0 +1,130 @@
+Name	Name_stripped_no_spaces	iso639_3	glottocode	Family_name_glottolog	Classification_ethnologue	Population_numeric_ethnologue	endangerment_status_glottolog	desc_status_glottolog	Language_status_ethnologue	level	AUTOTYP_area	Longitude	Latitude
+Ambonese Malay	Ambonese_Malay	abs	ambo1250	Austronesian	Creole, Malay based	249020	not endangered	long_grammar	3 (Wider communication). Became an LWC through trade, and is used in inter-cultural communication, market, and some media.	language	Oceania	128.184	-3.71342
+Banda Malay	Banda_Malay	bpq	band1353	Austronesian	Creole, Malay based	3690	not endangered	wordlist	6a (Vigorous).	language	Oceania	129.905	-4.55565
+North Moluccan Malay	North_Moluccan_Malay	max	nort2828	Austronesian	Creole, Malay based	1000000	not endangered	long_grammar	3 (Wider communication). Became LWC through trade, also used in daily life, inter-ethnic contact.	language	Oceania	128.323	-0.86437
+Kupang Malay	Kupang_Malay	mkn	kupa1239	Austronesian	Creole, Malay based	350000	not endangered	grammar_sketch	3 (Wider communication). Regional L2.	language	Oceania	123.63	-10.2526
+Papuan Malay	Papuan_Malay	pmy	papu1250	Austronesian	Creole, Malay based	1100000	not endangered	long_grammar	3 (Wider communication). LWC in the coastal areas of West Papua. Became an LWC mostly as a result of Dutch colonial language policies in the early 20th century, and before that, to a rather limited extent, through trade (Kluge 2014:11–15).	language	N Coast New Guinea	139.651	-2.53482
+Manado Malay	Manado_Malay	xmm	mala1481	Austronesian	Creole, Malay based	2350000	not endangered	grammar	3 (Wider communication). An important, growing lingua franca in many parts of Sulawesi.	language	Oceania	124.843	1.48099
+Betawi	Betawi	bew	beta1252	Austronesian	Creole, Malay based	5000000	threatened	long_grammar	6b (Threatened).	language	Southeast Asia	107.022	-6.21174
+Cocos Islands Malay	Cocos_Islands_Malay	coa	coco1260	Austronesian	Creole, Malay based	1000	shifting	grammar_sketch	6a (Vigorous).	language	Southeast Asia	96.833679	-12.193342
+Larantuka Malay	Larantuka_Malay	lrt	lara1260	Austronesian	Creole, Malay based	20000	threatened	long_grammar	6b (Threatened).	language	Oceania	122.7619	-8.4746
+Balinese Malay	Balinese_Malay	mhp	bali1279	Austronesian	Creole, Malay based	25000	threatened	grammar_sketch	6b (Threatened).	language	Southeast Asia	114.648391	-8.355884
+Tsotsitaal	Tsotsitaal	fly	tsot1242	Speech Register	Creole, Afrikaans based	0	extinct	dictionary	9 (Dormant).	language	S Africa	27.4955	-25.8633
+Oorlams	Oorlams	oor	oorl1238	Indo-European	Creole, Afrikaans based	32000	not endangered	grammar_sketch	6a (Vigorous).	language	S Africa	23.01446	-28.38447
+Babalia Creole Arabic	Babalia_Creole_Arabic	bbz	baba1273	Bookkeeping	Creole, Arabic based	3940	shifting	phonology	8b (Nearly extinct).	language	African Savannah	16.6925	12.7617
+Nubi	Nubi	kcn	nubi1253	Afro-Asiatic	Creole, Arabic based	44300	shifting	long_grammar	6a (Vigorous).	language	S Africa	34.7552	-0.183215
+Sudanese Creole Arabic	Sudanese_Creole_Arabic	pga	suda1237	Afro-Asiatic	Creole, Arabic based	820000	not endangered	grammar	3 (Wider communication). Used as L1 or L2 in Juba and other towns in Equatoria. As a creole and lingua franca, this language varies enormously in form from place to place, and from speaker to speaker (depending on subject matter and interlocuter), and is changing rapidly.	language	African Savannah	28.774	5.654
+Naga Pidgin	Naga_Pidgin	nag	naga1394	Indo-European	Creole, Assamese based	30000	not endangered	long_grammar	3 (Wider communication).	language	Southeast Asia	93.4438	25.2508
+Berbice Creole Dutch	Berbice_Creole_Dutch	brc	berb1259	Indo-European	Creole, Dutch based	0	extinct	long_grammar	10 (Extinct).	language	NE South America	-58.0002	5.3829
+Negerhollands	Negerhollands	dcr	nege1244	Indo-European	Creole, Dutch based	0	extinct	long_grammar	10 (Extinct).	language	Mesoamerica	-64.8922	18.3416
+Javindo	Javindo	jvd	javi1237	Indo-European	Creole, Dutch based	0	nearly extinct	NA	9 (Dormant).	language	NA	NA	NA
+Petjo	Petjo	pey	petj1238	Indo-European	Creole, Dutch based	10	nearly extinct	specific_feature	8b (Nearly extinct).	language	Southeast Asia	106.8	-6.16593
+Skepi Creole Dutch	Skepi_Creole_Dutch	skw	skep1238	Indo-European	Creole, Dutch based	0	extinct	wordlist	10 (Extinct).	language	NE South America	-58.5626	6.05191
+Afro-Seminole Creole	AfroSeminole_Creole	afs	afro1254	Indo-European	Creole, English based, Atlantic, Eastern, Northern	200	moribund	wordlist	8a (Moribund).	language	Basin and Plains	-99.2934	31.784300000000002
+Bahamas Creole English	Bahamas_Creole_English	bah	baha1260	Indo-European	Creole, English based, Atlantic, Eastern, Northern	309000	not endangered	grammar_sketch	6a (Vigorous). De facto language of national identity.	language	E North America	-77.390587	25.032149
+Sea Island Creole English	Sea_Island_Creole_English	gul	gull1241	Indo-European	Creole, English based, Atlantic, Eastern, Northern	350	threatened	grammar_sketch	5 (Developing).	language	E North America	-79.6036	33.6632
+Antigua and Barbuda Creole English	Antigua_and_Barbuda_Creole_English	aig	anti1245	Indo-European	Creole, English based, Atlantic, Eastern, Southern	147520	not endangered	grammar	6a (Vigorous). De facto language of national identity.	language	Mesoamerica	-61.821863	17.068263
+Bajan	Bajan	bjs	baja1265	Indo-European	Creole, English based, Atlantic, Eastern, Southern	256000	not endangered	grammar_sketch	6a (Vigorous). De facto language of national identity.	language	Mesoamerica	-59.5346	13.1365
+Grenadian Creole English	Grenadian_Creole_English	gcl	gren1247	Indo-European	Creole, English based, Atlantic, Eastern, Southern	89200	not endangered	grammar	6a (Vigorous). De facto language of national identity.	language	NE South America	-61.6989	12.0067
+Guyanese Creole English	Guyanese_Creole_English	gyn	creo1235	Indo-European	Creole, English based, Atlantic, Eastern, Southern	682000	not endangered	grammar	5 (Developing). De facto language of national identity.	language	NE South America	-58.918172	4.070915
+Vincentian Creole English	Vincentian_Creole_English	svc	vinc1243	Indo-European	Creole, English based, Atlantic, Eastern, Southern	138000	not endangered	grammar_sketch	6a (Vigorous). De facto language of national identity.	language	Mesoamerica	-61.1963	13.2436
+Tobagonian Creole English	Tobagonian_Creole_English	tgh	toba1282	Indo-European	Creole, English based, Atlantic, Eastern, Southern	300000	not endangered	grammar	6a (Vigorous). De facto language of provincial identity in Tobago.	language	NE South America	-60.6791	11.2388
+Trinidadian Creole English	Trinidadian_Creole_English	trf	trin1276	Indo-European	Creole, English based, Atlantic, Eastern, Southern	1000000	not endangered	grammar	6a (Vigorous). De facto language of national identity.	language	NE South America	-61.4171	10.4208
+Virgin Islands Creole English	Virgin_Islands_Creole_English	vic	virg1240	Indo-European	Creole, English based, Atlantic, Eastern, Southern	76500	not endangered	grammar_sketch	6a (Vigorous). De facto language of national identity.	language	Mesoamerica	-63.07851	18.04715
+Turks And Caicos Creole English	Turks_And_Caicos_Creole_English	tch	turk1310	Indo-European	Creole, English based, Atlantic, Eastern	10700	threatened	grammar_sketch	6b (Threatened). De facto language of national identity.	language	Mesoamerica	-71.7451	21.8078
+Pichi	Pichi	fpe	fern1234	Indo-European	Creole, English based, Atlantic, Krio	76000	not endangered	long_grammar	3 (Wider communication). Used as LWC across Bioko island, including the capital city of Malabo, in all domains except education and government.	language	African Savannah	8.78	3.74
+Krio	Krio	kri	krio1253	Indo-European	Creole, English based, Atlantic, Krio	716110	not endangered	grammar	3 (Wider communication).	language	African Savannah	-14.3204	10.8811
+Nigerian Pidgin	Nigerian_Pidgin	pcm	nige1257	Indo-European	Creole, English based, Atlantic, Krio	30000000	not endangered	long_grammar	3 (Wider communication).	language	African Savannah	4.21068	9.65873
+Cameroon Pidgin	Cameroon_Pidgin	wes	came1254	Indo-European	Creole, English based, Atlantic, Krio	2000000	not endangered	long_grammar	3 (Wider communication). Since 1884 used by police, prisons, urban school children at play. Now the most widespread lingua franca in Cameroon, used by about half the population (Todd and Mühlhäusler 1978).	language	African Savannah	9.80166	5.43932
+Aukan	Aukan	djk	ndyu1242	Indo-European	Creole, English based, Atlantic, Suriname, Ndyuka	39700	not endangered	long_grammar	5 (Developing).	language	NE South America	-54.6419	4.3126
+Kwinti	Kwinti	kww	kwin1243	Indo-European	Creole, English based, Atlantic, Suriname, Ndyuka	200	threatened	wordlist	6b (Threatened).	language	NE South America	-56.1266	5.1323
+Sranan Tongo	Sranan_Tongo	srn	sran1240	Indo-European	Creole, English based, Atlantic, Suriname	410700	not endangered	long_grammar	3 (Wider communication). De facto national working language. Lingua franca of 80% of the country, including the Hindustanis, Javanese, Chinese, American Indians, and Bush Negroes.	language	NE South America	-55.33	5.83
+Belize Kriol English	Belize_Kriol_English	bzj	beli1260	Indo-European	Creole, English based, Atlantic, Western	170000	shifting	long_grammar	3 (Wider communication). Lingua franca in much of the country.	language	Mesoamerica	-88.6281	17.3941
+Nicaragua Creole English	Nicaragua_Creole_English	bzk	nica1252	Indo-European	Creole, English based, Atlantic, Western	18400	threatened	long_grammar	3 (Wider communication). Statutory language of provincial identity in northern and southern areas (1993, Atlantic Coast Languages Act No. 162, Article 4).	language	Mesoamerica	-83.7386	12.4402
+San Andres Creole English	San_Andres_Creole_English	icr	sana1297	Indo-European	Creole, English based, Atlantic, Western	12000	threatened	grammar	6a (Vigorous).	language	Mesoamerica	-81.70425	12.55352
+Jamaican Creole English	Jamaican_Creole_English	jam	jama1262	Indo-European	Creole, English based, Atlantic, Western	3035000	shifting	long_grammar	5 (Developing). De facto language of national identity.	language	Mesoamerica	-77.2612	18.13
+Pijin	Pijin	pis	piji1239	Indo-European	Creole, English based, Pacific	331400	not endangered	grammar	3 (Wider communication).	language	Oceania	160.137	-9.567
+Hawai'i Creole English	Hawai?i_Creole_English	hwc	hawa1247	Indo-European	Creole, English based, Pacific	1000000	not endangered	grammar_sketch	5 (Developing).	language	Oceania	-155.437	19.6287
+Ngatik Men's Creole	Ngatik_Men?s_Creole	ngm	ngat1248	Speech Register	Creole, English based, Pacific	700	threatened	minimal	6b (Threatened).	language	Oceania	157.156112	5.78748
+Pitcairn-Norfolk	PitcairnNorfolk	pih	pitc1234	Indo-European	Creole, English based, Pacific	532	shifting	grammar_sketch	6a (Vigorous). Statutory language of national identity (2004, Norfolk Island Language (Norf’k) Act No. 25, Section 4), restrictions in Sec. 5 of Act No. 25 of 2004 bar meaningful official use.	language	Oceania	-128.324075	-24.379858
+Kriol	Kriol	rop	krio1252	Indo-European	Creole, English based, Pacific	14200	not endangered	grammar	3 (Wider communication).	language	N Australia	137.669	-18.135
+Torres Strait Creole	Torres_Strait_Creole	tcs	torr1261	Indo-European	Creole, English based, Pacific	6040	threatened	long_grammar	3 (Wider communication).	language	N Australia	142.692	-11.066
+Tok Pisin	Tok_Pisin	tpi	tokp1240	Indo-European	Creole, English based, Pacific	4122000	not endangered	long_grammar	1 (National). De facto national language.	language	S New Guinea	147.303	-9.41971
+Saramaccan	Saramaccan	srm	sara1340	Indo-European	Creole, English based	17100	not endangered	grammar	5 (Developing).	language	NE South America	-54.0238	4.54729
+Bislama	Bislama	bis	bisl1239	Indo-European	Creole, English based, Pacific	10000	not endangered	long_grammar	1 (National). Statutory national language (1980, Constitution, Art 3(1)). Most in the country understand and use it as lingua franca and as a symbol of national identity.	language	Oceania	166.89	-15.4
+Saint Lucian Creole French	Saint_Lucian_Creole_French	acf	sain1246	Indo-European	Creole, French based	359450	not endangered	grammar	5 (Developing). De facto language of national identity.	language	Mesoamerica	-61.3641	15.3947
+Tayo	Tayo	cks	tayo1238	Indo-European	Creole, French based	900	shifting	grammar	7 (Shifting).	language	Oceania	166.546	-22.2277
+Seselwa Creole French	Seselwa_Creole_French	crs	sese1246	Indo-European	Creole, French based	80200	not endangered	grammar	1 (National). Statutory national language (2003, Constitution, Article 4(1)).	language	Southeast Asia	55.4503	-4.62314
+Guadeloupean Creole French	Guadeloupean_Creole_French	gcf	guad1242	Indo-European	Creole, French based	849000	not endangered	long_grammar	6a (Vigorous). De facto language of national identity.	language	Mesoamerica	-61.405914	16.304875
+Guianese Creole French	Guianese_Creole_French	gcr	guia1246	Indo-European	Creole, French based	50000	not endangered	long_grammar	6a (Vigorous).	language	NE South America	-52.7336	4.94804
+Haitian	Haitian	hat	hait1244	Indo-European	Creole, French based	7712760	not endangered	long_grammar	1 (National). Statutory national language (1987, Constitution, Article 5 (1,2)).	language	Mesoamerica	-72.136115	18.795135
+Karipúna Creole French	Karipuna_Creole_French	kmv	kari1301	Indo-European	Creole, French based	2400	threatened	grammar	6b (Threatened).	language	NE South America	-51.6888	3.42825
+Louisiana Creole French	Louisiana_Creole_French	lou	loui1240	Indo-European	Creole, French based	10000	moribund	long_grammar	7 (Shifting).	language	E North America	-90.7475	30.0412
+Morisyen	Morisyen	mfe	mori1278	Indo-European	Creole, French based	1135000	not endangered	long_grammar	5 (Developing). De facto language of national identity.	language	Southeast Asia	57.5517	-20.2613
+Réunion Creole French	Reunion_Creole_French	rcf	reun1238	Indo-European	Creole, French based	450000	not endangered	long_grammar	6a (Vigorous).	language	Southeast Asia	55.5321	-21.1131
+San Miguel Creole French	San_Miguel_Creole_French	scf	sanm1305	Indo-European	Creole, French based	3	nearly extinct	overview	8b (Nearly extinct).	language	Mesoamerica	-81.2564	8.32601
+Unserdeutsch	Unserdeutsch	uln	unse1236	Indo-European	Creole, German based	110	moribund	grammar_sketch	8b (Nearly extinct).	language	N Coast New Guinea	152.183	-4.19566
+Andaman Creole Hindi	Andaman_Creole_Hindi	hca	anda1280	Indo-European	Creole, Hindi based	10000	not endangered	grammar_sketch	6a (Vigorous).	language	Southeast Asia	92.738	11.676
+Papiamento	Papiamento	pap	papi1253	Indo-European	Creole, Iberian based	319870	not endangered	grammar	1 (National). De facto national language.	language	NE South America	-69.93988	12.48485
+Kituba (Democratic Republic of Congo)	Kituba_Democratic_Republic_of_Congo	ktu	kitu1246	Atlantic-Congo	Creole, Kongo based	5000000	not endangered	long_grammar	2 (Provincial). Statutory provincial language in Bas-Congo, Bandundu regions (2006, Constitution, Article 1(8)).	language	S Africa	17.1548	-2.29601
+Kituba (Congo)	Kituba_Congo	mkw	kitu1245	Atlantic-Congo	Creole, Kongo based	1490000	not endangered	grammar	3 (Wider communication). Statutory language of national identity (2002, Constitution, Article 6), recognized as lingua franca. Kituba is used throughout the south in churches, the market and the media (2014 SIL).	language	S Africa	14.5648	-4.15654
+Malaccan Creole Malay	Malaccan_Creole_Malay	ccm	mala1482	Austronesian	Creole, Malay based	300	moribund	phonology	8a (Moribund).	language	Southeast Asia	102.240488	2.20265
+Baba Malay	Baba_Malay	mbf	baba1267	Austronesian	Creole, Malay based	12000	nearly extinct	long_grammar	7 (Shifting).	language	Southeast Asia	103.076	1.75414
+Peranakan Indonesian	Peranakan_Indonesian	pea	pera1256	Austronesian	Creole, Malay based	20000	shifting	grammar_sketch	7 (Shifting).	language	Southeast Asia	112.619	-7.982
+Sri Lanka Malay	Sri_Lanka_Malay	sci	sril1245	Austronesian	Creole, Malay based	46000	shifting	long_grammar	5 (Developing).	language	Indic	79.864	6.91603
+Sango	Sango	sag	sang1328	Atlantic-Congo	Creole, Ngbandi based	449000	not endangered	long_grammar	1 (National). Statutory national language (2004, Constitution, Article 18).	language	African Savannah	20.1702	6.78584
+Riverain Sango	Riverain_Sango	snj	rive1257	Atlantic-Congo	Creole, Ngbandi based	34500	not endangered	dictionary	6a (Vigorous).	language	S Africa	21.1733	4.32811
+Angolar	Angolar	aoa	ango1258	Indo-European	Creole, Portuguese based	12500	not endangered	long_grammar	6a (Vigorous).	language	S Africa	6.59486	0.11438
+Cafundo	Cafundo	ccd	cafu1238	Indo-European	Creole, Portuguese based	40	nearly extinct	wordlist	8b (Nearly extinct).	language	NE South America	-43.6455	-23.0448
+Sãotomense	Saotomense	cri	saot1239	Indo-European	Creole, Portuguese based	79400	threatened	grammar_sketch	6b (Threatened). De facto language of provincial identity in São Tomé Island except south tip.	language	S Africa	6.61935	0.28332
+Annobonese	Annobonese	fab	fada1250	Indo-European	Creole, Portuguese based	5600	not endangered	long_grammar	6a (Vigorous).	language	S Africa	5.61879	-1.43033
+Daman-Diu Portuguese	DamanDiu_Portuguese	idb	dama1278	Indo-European	Creole, Portuguese based	7160	threatened	long_grammar	6b (Threatened).	language	Indic	72.84146	20.396759
+Kabuverdianu	Kabuverdianu	kea	kabu1256	Indo-European	Creole, Portuguese based	733730	not endangered	long_grammar	4 (Educational). Statutory language of national identity (1992, Constitution, Article 9(2)), not co-equal with Portuguese.	language	African Savannah	-23.6148	15.0586
+Malacca-Batavia Portuguese Creole	MalaccaBatavia_Portuguese_Creole	mcm	mala1533	Indo-European	Creole, Portuguese based	2150	shifting	long_grammar	8a (Moribund).	language	Southeast Asia	102.262059	2.188087
+Macanese	Macanese	mzs	maca1262	Indo-European	Creole, Portuguese based	50	nearly extinct	grammar	8b (Nearly extinct).	language	Southeast Asia	114.12	22.4181
+Upper Guinea Crioulo	Upper_Guinea_Crioulo	pov	uppe1455	Indo-European	Creole, Portuguese based	441800	not endangered	long_grammar	5 (Developing). De facto language of national identity.	language	African Savannah	-15.33254	13.2335066667
+Principense	Principense	pre	prin1242	Indo-European	Creole, Portuguese based	200	moribund	grammar	8a (Moribund).	language	African Savannah	7.392	1.614
+Ternateño	Ternateno	tmg	tern1248	Indo-European	Creole, Portuguese based	0	extinct	long_grammar	10 (Extinct).	language	Oceania	120.72	14.28
+Timor Pidgin	Timor_Pidgin	tvy	timo1258	Indo-European	Creole, Portuguese based	0	extinct	grammar_sketch	10 (Extinct).	language	Oceania	125.59	-8.65995
+Korlai Portuguese	Korlai_Portuguese	vkp	korl1238	Indo-European	Creole, Portuguese based	750	not endangered	grammar	6a (Vigorous).	language	Indic	73.0099	19.0348
+Chavacano	Chavacano	cbk	chav1241	Indo-European	Creole, Spanish based	1200000	not endangered	long_grammar	4 (Educational).	language	Oceania	122.18849	7.435034
+Palenquero	Palenquero	pln	pale1260	Indo-European	Creole, Spanish based	500	shifting	grammar	8a (Moribund).	language	NE South America	-75.2949	10.3881
+Cutchi-Swahili	CutchiSwahili	ccl	cutc1238	Atlantic-Congo	Creole, Swahili based	45000	not endangered	grammar_sketch	6a (Vigorous).	language	S Africa	38.6217	-3.13905
+Tetun Dili	Tetun_Dili	tdt	tetu1246	Austronesian	Creole, Tetun based	385000	not endangered	long_grammar	1 (National). Statutory national language (2002, Constitution, Article 13).	language	Oceania	125.583	-8.58405
+Lomavren	Lomavren	rmi	loma1235	Indo-European	Mixed language, Armenian-Romani	50	moribund	grammar_sketch	6b (Threatened).	language	Greater Mesopotamia	44.094985	41.599419
+Mbugu	Mbugu	mhd	mbug1240	Mixed Language	Mixed language, Bantu-Cushitic	7000	shifting	long_grammar	7 (Shifting).	language	S Africa	38.3519	-4.72863
+Cakchiquel-Quiché Mixed Language	CakchiquelQuiche_Mixed_Language	ckz	cakc1235	Mixed Language	Mixed language, Cakchiquel-Quiché	2000	shifting	grammar_sketch	7 (Shifting).	language	Mesoamerica	-90.6989	14.6467
+Wutunhua	Wutunhua	wuh	wutu1241	Sino-Tibetan	Mixed language, Chinese-Tibetan-Bonan Mongour	2000	shifting	long_grammar	7 (Shifting). Language of recognized nationality: Tu.	language	Inner Asia	101.957	35.269
+Traveller Danish	Traveller_Danish	rmd	trav1237	Indo-European	Mixed language, Danish-Romani	0	extinct	wordlist	10 (Extinct).	language	Europe	12.059	55.5605
+Archaic Angloromani	Archaic_Angloromani	rme	angl1239	Indo-European	Mixed language, English-Romani	99200	not endangered	long_grammar	6a (Vigorous).	language	E North America	-78	39
+Michif	Michif	crg	mich1243	Mixed Language	Mixed language, French-Cree	725	nearly extinct	grammar	7 (Shifting).	language	Basin and Plains	-99.9119	49.1681
+Yeniche	Yeniche	yec	yeni1236	Mixed Language	Mixed language, German-Yiddish-Romani-Rotwelsch	NA	not endangered	NA	6a (Vigorous).	language	Europe	8.47267	48.2483
+Romano-Greek	RomanoGreek	rge	roma1240	Indo-European	Mixed language, Greek-Romani	30	nearly extinct	wordlist	8b (Nearly extinct).	language	Europe	23.2164	38.6347
+Shelta	Shelta	sth	shel1236	Mixed Language	Mixed language, Irish-undocumented	86000	not endangered	grammar_sketch	6a (Vigorous).	language	Europe	-7.73983	53.7907
+Traveller Norwegian	Traveller_Norwegian	rmg	trav1236	Indo-European	Mixed language, Norwegian-Romani	NA	moribund	grammar	6a (Vigorous).	language	Europe	9.48913	62.6217
+Callawalla	Callawalla	caw	call1235	Mixed Language	Language isolate	0	nearly extinct	grammar_sketch	9 (Dormant).	language	Andean	-68.10176	-15.88451
+Mednyj Aleut	Mednyj_Aleut	mud	medn1235	Mixed Language	Mixed language, Russian-Aleut	350	extinct	grammar_sketch	8b (Nearly extinct).	language	N Coast Asia	167.782	54.6601
+Romano-Serbian	RomanoSerbian	rsb	roma1241	Mixed Language	Mixed language, Serbian-Romani	78000	not endangered	NA	6a (Vigorous).	language	Europe	20.3762	45.2552
+Tagdal	Tagdal	tda	tagd1238	Songhay	Mixed language, Songhay-Berber	26900	threatened	phonology	6a (Vigorous).	language	African Savannah	6.83992	16.1908
+Media Lengua	Media_Lengua	mue	medi1245	Mixed Language	Mixed language, Spanish-Quichua	2600	threatened	grammar_sketch	6a (Vigorous).	language	Andean	-78.5392	-1.04518
+Tavringer Romani	Tavringer_Romani	rmu	tavr1235	Indo-European	Mixed language, Swedish-Romani	0	extinct	grammar_sketch	9 (Dormant).	language	Europe	14.4036	62.2313
+Nguluwan	Nguluwan	nuw	ngul1236	Austronesian	Mixed language, Yapese-Ulithi	50	nearly extinct	wordlist	8b (Nearly extinct).	language	Oceania	137.34	8.45
+Camtho	Camtho	cmt	camt1236	Mixed Language	Mixed language, Zulu-Bantu	0	extinct	overview	9 (Second language only).	language	S Africa	27.942	-26.247
+E	E	eee	eeee1240	Tai-Kadai	Mixed language	30000	threatened	long_grammar	6b (Threatened). Language of recognized nationality: Zhuang.	language	Southeast Asia	109.063	24.7262
+N'Ko	N?Ko	nqo	nkoa1234	Bookkeeping	Mixed language	0	extinct	NA	9 (Second language only).	language	NA	NA	NA
+Creolized Grand Ronde Chinook Jargon	Creolized_Grand_Ronde_Chinook_Jargon	chn	chin1272	Chinookan	Pidgin, Amerindian	1	nearly extinct	grammar_sketch	8b (Nearly extinct).	language	Alaska-Oregon	-125	55
+Pidgin Delaware	Pidgin_Delaware	dep	pidg1246	Pidgin	Pidgin, Amerindian	0	extinct	grammar_sketch	10 (Extinct).	language	E North America	-75.463	38.569
+Nefamese	Nefamese	nef	nefa1235	Pidgin	Pidgin, Assamese based	NA	nearly extinct	phonology	8b (Nearly extinct).	language	Indic	96.349	27.688
+Kru Pidgin English	Kru_Pidgin_English	lir	libe1240	Pidgin	Pidgin, English based, Atlantic	1613000	not endangered	grammar_sketch	3 (Wider communication).	language	African Savannah	-10.5284	6.423
+Chinese Pidgin English	Chinese_Pidgin_English	cpi	chin1253	Pidgin	Pidgin, English based, Pacific	2000	shifting	grammar_sketch	6b (Threatened).	language	Oceania	166.926	-0.53224
+Tay Boi	Tay_Boi	tas	tayb1240	Pidgin	Pidgin, French based	0	extinct	grammar_sketch	10 (Extinct).	language	Southeast Asia	108.257	13.8962
+Barikanchi	Barikanchi	bxo	bari1241	Pidgin	Pidgin, Hausa based	0	extinct	minimal	9 (Second language only).	language	African Savannah	8.4331	11.989
+Gibanawa	Gibanawa	gib	giba1240	Pidgin	Pidgin, Hausa based	0	extinct	grammar_sketch	9 (Second language only).	language	African Savannah	8.615	12.584
+Iha-based Pidgin	Ihabased_Pidgin	ihb	ihab1241	Pidgin	Pidgin, Iha based	0	extinct	NA	9 (Second language only).	language	N Coast New Guinea	132.294	-2.935
+Broome Pearling Lugger Pidgin	Broome_Pearling_Lugger_Pidgin	bpl	broo1238	Pidgin	Pidgin, Malay based	40	extinct	grammar_sketch	9 (Second language only). Lingua franca on pearling boats between Malays, Japanese, Chinese, and Aborigines.	language	N Australia	122.233	-17.927
+Hiri Motu	Hiri_Motu	hmo	hiri1237	Pidgin	Pidgin, Motu based	120000	not endangered	grammar	3 (Wider communication). Recognized language (1975, Constitution, Articles 67 and 68). Used long before European contact by participants in the Hiri trade cycle between the Motu people and their neighbors on the south east coast of the island of New Guinea. Since about 1970 the use of Hiri Motu as a lingua franca has been declining in favor of English [eng] and Tok Pisin [tpi]; speakers are mostly older adults and concentrated in Central Province and Gulf Province.	language	S New Guinea	147.083	-9.33333
+Onin Pidgin	Onin_Pidgin	onx	onin1237	Pidgin	Pidgin, Onin based	0	extinct	NA	9 (Second language only).	language	N Coast New Guinea	132.083	-2.83
+Mediterranean Lingua Franca	Mediterranean_Lingua_Franca	pml	ling1242	Pidgin	Pidgin, Romance based	0	extinct	grammar_sketch	10 (Extinct).	language	N Africa	10.8531	33.8613
+KiSetla	KiSetla	sta	sett1235	Pidgin	Pidgin, Swahili based	0	extinct	grammar_sketch	9 (Second language only).	language	S Africa	28.6923	-15.6067
+Fanagalo	Fanagalo	fng	fana1235	Pidgin	Pidgin, Zulu based	0	extinct	grammar	9 (Second language only).	language	S Africa	27.1400833333	-25.384842
+Ndyuka-Trio Pidgin	NdyukaTrio_Pidgin	njt	ndyu1241	Pidgin	Pidgin	0	extinct	grammar_sketch	9 (Second language only).	language	NE South America	-56.0182	2.94789

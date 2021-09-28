@@ -1,0 +1,337 @@
+Name	Name_stripped_no_spaces	iso639_3	iso639_3_macro	glottocode	Family_name_glottolog	Classification_ethnologue	Population_numeric_ethnologue	endangerment_status_glottolog	desc_status_glottolog	Language_status_ethnologue	level	AUTOTYP_area	Longitude	Latitude
+Esperanto	Esperanto	epo	NA	espe1235	Artificial Language	Constructed language	2001000	not endangered	long_grammar	3 (Wider communication). Esperanto was developed for intercommunication among L1 users of other languages. It is currently used by speakers in over 100 countries of the world.	language	Europe	2.81045	49.3273
+Rennellese Sign Language	Rennellese_Sign_Language	rsi	NA	renn1236	Artificial Language	NA	NA	nearly extinct	wordlist	NA	language	Oceania	160.219	-11.615
+Judeo-Berber	JudeoBerber	jbe	NA	jude1262	Bookkeeping	Afro-Asiatic, Berber, Northern, Atlas	2000	moribund	text	7 (Shifting).	language	N Africa	-7.95	30.9
+Kofa	Kofa	kso	NA	kofa1236	Bookkeeping	Afro-Asiatic, Chadic, Biu-Mandara, A, A.2, 1	1100	threatened	NA	6a (Vigorous).	language	African Savannah	12.8757	9.76068
+Buso	Buso	bso	NA	buso1242	Bookkeeping	Afro-Asiatic, Chadic, East, A, A.1	40	moribund	socling	8b (Nearly extinct).	language	African Savannah	17.6011	12.5008
+Jorto	Jorto	jrt	NA	jort1240	Bookkeeping	Afro-Asiatic, Chadic, West, A, A.3, Angas Proper, 1	17300	not endangered	comparative	6a (Vigorous).	language	African Savannah	9.42486	8.93055
+Gamo-Gofa-Dawro	GamoGofaDawro	gmo	NA	gamo1244	Bookkeeping	NA	NA	NA	overview	NA	language	Greater Abyssinia	37.1381	6.57645
+Kakauhua	Kakauhua	kbf	NA	kaka1269	Bookkeeping	NA	NA	NA	overview	NA	language	Andean	-72.3228	-39.0488
+Omejes	Omejes	ome	NA	omej1234	Bookkeeping	NA	NA	NA	overview	NA	language	NE South America	-70	0.99999
+Ponares	Ponares	pod	NA	pona1251	Bookkeeping	NA	NA	NA	overview	NA	language	NE South America	-71.5	4.83332
+Tomedes	Tomedes	toe	NA	tome1239	Bookkeeping	NA	NA	NA	overview	NA	language	NE South America	-69.6666	3.24999
+Mawayana	Mawayana	mzx	NA	mawa1271	Bookkeeping	Maipurean, Unclassified	60	nearly extinct	NA	8b (Nearly extinct).	language	NE South America	-58.5046	1.98815
+Cumeral	Cumeral	cum	NA	cume1234	Bookkeeping	NA	NA	NA	overview	NA	language	NE South America	-69.5	2.83332
+Bandjigali	Bandjigali	bjd	NA	band1337	Bookkeeping	NA	NA	NA	overview	NA	language	S Australia	143.282	-30.0771
+Kuku-Mangk	KukuMangk	xmq	NA	kuku1279	Bookkeeping	Australian, Pama-Nyungan, Paman, Middle Pama	0	nearly extinct	comparative	10 (Extinct).	language	N Australia	141.824	-14.2866
+Kunggara	Kunggara	kvs	NA	kung1262	Bookkeeping	NA	NA	nearly extinct	comparative	NA	language	N Australia	141.1441	-17.62553
+Uradhi	Uradhi	urf	NA	urad1239	Bookkeeping	Australian, Pama-Nyungan, Paman, Northern Pama	0	nearly extinct	NA	10 (Extinct).	language	N Australia	142.135	-12.0679
+Ngarla on the Ashburton river south of the Hamersley range	Ngarla_on_the_Ashburton_river_south_of_the_Hamersley_range	nlr	NA	ngar1286	Bookkeeping	NA	NA	nearly extinct	NA	NA	language	NA	NA	NA
+Nijadali	Nijadali	nad	NA	nija1242	Bookkeeping	NA	NA	nearly extinct	overview	NA	language	S Australia	120.83057	-22.85576
+Wirangu-Nauo	WiranguNauo	wiw	NA	wira1260	Bookkeeping	NA	NA	NA	overview	NA	language	S Australia	131.719	-31.6356
+Lamam	Lamam	lmm	NA	lama1290	Bookkeeping	NA	NA	NA	overview	NA	language	Southeast Asia	107.336	14.3658
+The	The	thx	NA	thee1240	Bookkeeping	NA	NA	NA	overview	NA	language	Southeast Asia	106.667	14.6733
+Ir	Ir	irr	NA	irrr1240	Bookkeeping	Austro-Asiatic, Mon-Khmer, Eastern Mon-Khmer, Katuic, Central Katuic, Ta’oih	4420	not endangered	NA	6a (Vigorous).	language	Southeast Asia	106.564	15.7188
+Tareng	Tareng	tgr	NA	tare1239	Bookkeeping	Austro-Asiatic, Mon-Khmer, Eastern Mon-Khmer, Katuic, East Katuic, Katu-Pacoh	5000	not endangered	overview	6a (Vigorous).	language	Southeast Asia	107.296	15.4928
+Khlor	Khlor	llo	NA	khlo1239	Bookkeeping	Austro-Asiatic, Mon-Khmer, Eastern Mon-Khmer, Katuic, East Katuic, Ngeq-Nkriang	6000	threatened	overview	6b (Threatened).	language	Southeast Asia	106.606	15.6415
+Khua	Khua	xhv	NA	khua1243	Bookkeeping	Austro-Asiatic, Mon-Khmer, Eastern Mon-Khmer, Katuic, West Katuic, Bru	5000	not endangered	overview	6a (Vigorous). Language of recognized ethnic group: Bru Van Kieu.	language	Southeast Asia	106.021	17.402
+Samre of Siem Reap	Samre_of_Siem_Reap	sxm	NA	samr1245	Bookkeeping	Austro-Asiatic, Mon-Khmer, Eastern Mon-Khmer, Pearic, Western, Samre	0	nearly extinct	grammar	9 (Dormant).	language	Southeast Asia	103.978	13.479
+Khao	Khao	xao	NA	khao1244	Bookkeeping	Austro-Asiatic, Mon-Khmer, Northern Mon-Khmer, Khmuic, Khao	10000	not endangered	NA	6a (Vigorous). Language of recognized ethnic group: Xinh Mun. population 23,278 (2009 census).	language	Southeast Asia	103.467	21.4543
+Lua'	Lua?	prb	NA	luaa1235	Bookkeeping	NA	NA	NA	grammar	NA	language	Southeast Asia	101.217	19.1198
+Pray 3	Pray_3	pry	NA	pray1239	Bookkeeping	NA	NA	NA	comparative	NA	language	Southeast Asia	101.021	19.4306
+Kon Keu	Kon_Keu	kkn	NA	konk1268	Bookkeeping	Austro-Asiatic, Mon-Khmer, Northern Mon-Khmer, Palaungic, Eastern Palaungic, Angkuic	6300	threatened	NA	6a (Vigorous). Language of recognized nationality: Blang.	language	Southeast Asia	100.278	21.6369
+Kiorr	Kiorr	xko	NA	kior1239	Bookkeeping	Austro-Asiatic, Mon-Khmer, Northern Mon-Khmer, Palaungic, Eastern Palaungic, Angkuic	2360	threatened	overview	6a (Vigorous).	language	Southeast Asia	101.211	21.0684
+Con	Con	cno	NA	cona1234	Bookkeeping	Austro-Asiatic, Mon-Khmer, Northern Mon-Khmer, Palaungic, Eastern Palaungic, Lametic	1000	threatened	NA	6a (Vigorous).	language	Southeast Asia	100.904	20.6442
+Kemiehua	Kemiehua	kfj	NA	kemi1240	Bookkeeping	Austro-Asiatic, Mon-Khmer, Unclassified	1000	threatened	NA	6a (Vigorous).	language	Southeast Asia	101.144	22.0603
+Kuanhua	Kuanhua	xnh	NA	kuan1250	Bookkeeping	Austro-Asiatic, Mon-Khmer, Unclassified	1000	shifting	NA	6a (Vigorous).	language	Southeast Asia	101.158	21.9802
+Munda	Munda	unx	NA	mund1321	Bookkeeping	Austro-Asiatic, Munda, North Munda, Kherwari, Mundari	469000	not endangered	overview	6a (Vigorous).	language	Indic	87.1792	25.0391
+Elpaputih	Elpaputih	elp	NA	elpa1240	Bookkeeping	NA	NA	NA	overview	NA	language	Oceania	128.263	-3.078
+Horuru	Horuru	hrr	NA	horu1241	Bookkeeping	NA	NA	NA	overview	NA	language	Oceania	129.387	-3.12875
+Piru	Piru	ppr	NA	piru1241	Bookkeeping	NA	NA	moribund	overview	NA	language	Oceania	128.197	-3.05368
+South Wemale	South_Wemale	tlw	NA	sout2892	Bookkeeping	NA	NA	NA	overview	NA	language	Oceania	128.547	-3.29102
+Vatrata	Vatrata	vlr	NA	vatr1237	Bookkeeping	NA	NA	NA	wordlist	NA	language	Oceania	167.42	-13.83
+Natügu (Retired)	Natugu_Retired	stc	NA	natu1249	Bookkeeping	NA	NA	NA	overview	NA	language	Oceania	165.835	-10.6771
+Dororo	Dororo	drr	NA	doro1267	Bookkeeping	Austronesian, Malayo-Polynesian, Central-Eastern Malayo-Polynesian, Eastern Malayo-Polynesian, Oceanic, Western Oceanic, Meso Melanesian, New Ireland, South New Ireland-Northwest Solomonic, New Georgia, West	0	extinct	wordlist	10 (Extinct).	language	Oceania	157.767	-8.30556
+Guliguli	Guliguli	gli	NA	guli1244	Bookkeeping	Austronesian, Malayo-Polynesian, Central-Eastern Malayo-Polynesian, Eastern Malayo-Polynesian, Oceanic, Western Oceanic, Meso Melanesian, New Ireland, South New Ireland-Northwest Solomonic, New Georgia, West	0	extinct	wordlist	10 (Extinct).	language	Oceania	157.564	-8.10266
+Yarsun	Yarsun	yrs	NA	yars1234	Bookkeeping	Austronesian, Malayo-Polynesian, Central-Eastern Malayo-Polynesian, Eastern Malayo-Polynesian, Oceanic, Western Oceanic, North New Guinea, Sarmi-Jayapura Bay, Sarmi	200	shifting	overview	8a (Moribund).	language	N Coast New Guinea	139.472	-2.21222
+Wagawaga (Retired)	Wagawaga_Retired	wgw	NA	waga1262	Bookkeeping	NA	NA	NA	NA	NA	language	NA	NA	NA
+Aariya	Aariya	aay	NA	aari1240	Bookkeeping	NA	NA	NA	NA	NA	language	NA	NA	NA
+Lenca	Lenca	len	NA	lenc1244	Bookkeeping	Lencan	0	extinct	phonology	9 (Dormant).	language	Mesoamerica	-88.0422	13.9278
+Malakhel	Malakhel	mld	NA	mala1431	Bookkeeping	NA	NA	NA	overview	NA	language	Greater Mesopotamia	69.0719	33.0726
+Natagaimas	Natagaimas	nts	NA	nata1238	Bookkeeping	NA	NA	NA	overview	NA	language	Andean	-75.0333	4.16665
+Tapeba	Tapeba	tbb	NA	tape1236	Bookkeeping	Unclassified	0	extinct	overview	9 (Dormant).	language	NE South America	-40.3333	-4.99999
+Tingui-Boto	TinguiBoto	tgv	NA	ting1238	Bookkeeping	Unclassified	0	extinct	overview	9 (Dormant).	language	NE South America	-37.538	-11.5816
+Warduji	Warduji	wrd	NA	ward1243	Bookkeeping	Unclassified	5000	not endangered	NA	6a (Vigorous).	language	Indic	71.1475	36.6083
+Xinca	Xinca	xin	NA	xinc1247	Bookkeeping	Language isolate	0	extinct	comparative	10 (Extinct). Recognized language (2003, Law of National Languages, Decree 19).	language	Mesoamerica	-89.8235	14.3103
+Yauma	Yauma	yax	NA	yaum1238	Bookkeeping	Niger-Congo, Atlantic-Congo, Volta-Congo, Benue-Congo, Bantoid, Southern, Narrow Bantu, Central, K, Ciokwe-Luchazi (K.16)	22200	threatened	NA	6a (Vigorous).	language	S Africa	21.881345	-15.821495
+Yarí	Yari	yri	NA	yari1235	Bookkeeping	NA	NA	NA	overview	NA	language	NE South America	-74.3715	1.43017
+Southern Betsimisaraka Malagasy (Retired)	Southern_Betsimisaraka_Malagasy_Retired	bjq	NA	sout3125	Bookkeeping	NA	NA	NA	overview	NA	language	Southeast Asia	48.1108	-20.8687
+Balau	Balau	blg	NA	bala1306	Bookkeeping	Austronesian, Malayo-Polynesian, Malayo-Chamic, Malayic, Ibanic	5000	threatened	NA	6b (Threatened).	language	Southeast Asia	110.913	1.33476
+Seru	Seru	szd	NA	seru1247	Bookkeeping	Austronesian, Malayo-Polynesian, North Borneo, Melanau-Kajang, Melanau	0	extinct	NA	10 (Extinct).	language	Southeast Asia	112.133	1.73885
+Putoh	Putoh	put	NA	puto1237	Bookkeeping	Austronesian, Malayo-Polynesian, North Borneo, North Sarawakan, Dayic, Kelabitic	6000	threatened	NA	6b (Threatened).	language	Southeast Asia	116.443	3.42467
+Wahau Kayan	Wahau_Kayan	whu	NA	waha1239	Bookkeeping	Austronesian, Malayo-Polynesian, North Borneo, North Sarawakan, Kayan-Kenyah, Kayanic, Kayan Proper	500	threatened	comparative	6b (Threatened).	language	Southeast Asia	116.6795	1.42088
+Punan Merap	Punan_Merap	puc	NA	puna1274	Bookkeeping	Austronesian, Malayo-Polynesian, North Borneo, Rejang-Sajau	200	shifting	NA	6b (Threatened).	language	Southeast Asia	116.251	3.10143
+Iapama	Iapama	iap	NA	iapa1241	Bookkeeping	Unclassified	NA	NA	overview	Unattested.	language	NE South America	-53.3269	0.97588
+Imeraguen	Imeraguen	ime	NA	imer1236	Bookkeeping	NA	NA	NA	minimal	NA	language	African Savannah	-16.34726	18.37331
+Kamba (Brazil)	Kamba_Brazil	xba	NA	kamb1287	Bookkeeping	NA	NA	NA	overview	NA	language	SE South America	-57.3333	-18.8333
+Cataelano Mandaya	Cataelano_Mandaya	mst	NA	cata1284	Bookkeeping	NA	NA	NA	overview	NA	language	Oceania	126.373	7.77188
+Sangab Mandaya	Sangab_Mandaya	myt	NA	sang1338	Bookkeeping	NA	NA	NA	overview	NA	language	Oceania	126.409	7.39531
+Upper Tanudan Kalinga	Upper_Tanudan_Kalinga	kgh	NA	uppe1424	Bookkeeping	NA	NA	NA	overview	NA	language	Oceania	121.202	17.2143
+Toala'	Toala?	tlz	NA	toal1234	Bookkeeping	NA	NA	NA	NA	NA	language	NA	NA	NA
+Coyaima	Coyaima	coy	NA	coya1241	Bookkeeping	NA	NA	NA	wordlist	NA	language	NE South America	-73	11.3333
+Sikiana	Sikiana	sik	NA	siki1239	Bookkeeping	Cariban, Kashuyana	48	shifting	wordlist	8a (Moribund).	language	NE South America	-57.9221	3.01294
+Salumá	Saluma	slj	NA	salu1254	Bookkeeping	Cariban, Tiriyó	240	moribund	wordlist	8a (Moribund).	language	NE South America	-56.5107	1.74782
+Kabixí	Kabixi	xbx	NA	kabi1264	Bookkeeping	NA	NA	NA	overview	NA	language	NE South America	-58.9931	-14.2403
+Cauca	Cauca	cca	NA	cauc1241	Bookkeeping	Paezan, Coconuco	0	extinct	comparative	10 (Extinct).	language	NE South America	-69.91	1.267
+Chumash	Chumash	chs	NA	chum1264	Bookkeeping	NA	NA	NA	NA	NA	language	NA	NA	NA
+Laos Sign Language	Laos_Sign_Language	lso	NA	laos1235	Bookkeeping	Sign language	NA	not endangered	NA	6a (Vigorous).	language	Southeast Asia	104.518	18.387
+Singapore Sign Language	Singapore_Sign_Language	sls	NA	sing1237	Bookkeeping	Sign language	3000	not endangered	NA	5 (Developing).	language	Southeast Asia	103.864	1.33069
+Yiddish Sign Language	Yiddish_Sign_Language	yds	NA	yidd1241	Bookkeeping	NA	NA	NA	overview	NA	language	Greater Mesopotamia	34.7818	31.7342
+Savara	Savara	svr	NA	sava1244	Bookkeeping	NA	NA	NA	overview	NA	language	Indic	84.1414	18.7302
+Kurumba, Kannada	Kurumba,_Kannada	kfi	NA	kann1253	Bookkeeping	Dravidian, Southern, Tamil-Kannada, Tamil-Kodagu, Kodagu	180000	not endangered	socling	5 (Developing).	language	Indic	76.5256	11.3824
+Kumbaran	Kumbaran	wkb	NA	kumb1267	Bookkeeping	Dravidian, Southern	10000	threatened	NA	6b (Threatened).	language	NA	NA	NA
+Anasi	Anasi	bpo	NA	anas1239	Bookkeeping	East Geelvink Bay	2000	threatened	overview	6a (Vigorous).	language	N Coast New Guinea	137.716	-1.73908
+Ahirani	Ahirani	ahr	NA	ahir1243	Bookkeeping	Indo-European, Indo-Iranian, Indo-Aryan, Intermediate Divisions, Western, Khandesi	1870000	not endangered	NA	6a (Vigorous).	language	Indic	73.685	21.552
+Loarki	Loarki	lrk	NA	loar1234	Bookkeeping	Indo-European, Indo-Iranian, Indo-Aryan, Intermediate Divisions, Western, Rajasthani, Marwari	20000	not endangered	NA	6a (Vigorous).	language	Indic	68.715	26.095
+Mina (India)	Mina_India	myi	NA	mina1267	Bookkeeping	Indo-European, Indo-Iranian, Indo-Aryan, Unclassified	3800000	not endangered	overview	6a (Vigorous).	language	Indic	74.5977	23.7425
+Chamari	Chamari	cdg	NA	cham1329	Bookkeeping	Indo-European, Indo-Iranian, Indo-Aryan, Western Hindi, Unclassified	406000	not endangered	overview	6a (Vigorous).	language	Indic	79.6232	21.3532
+Gowli	Gowli	gok	NA	gowl1241	Bookkeeping	Indo-European, Indo-Iranian, Indo-Aryan, Western Hindi, Unclassified	35000	not endangered	ethnographic	6a (Vigorous).	language	Indic	77.3733	21.7726
+Dhanwar (India)	Dhanwar_India	dha	NA	dhan1267	Bookkeeping	NA	NA	NA	overview	NA	language	Indic	83.1644	23.0613
+Kayort	Kayort	kyv	NA	kayo1247	Bookkeeping	Indo-European, Indo-Iranian, Indo-Aryan, Outer Languages, Eastern, Bengali-Assamese	22000	threatened	NA	6b (Threatened).	language	Indic	87.6042	26.6179
+Mirgan	Mirgan	zrg	NA	mirg1238	Bookkeeping	Indo-European, Indo-Iranian, Indo-Aryan, Outer Languages, Eastern, Bengali-Assamese	60000	not endangered	overview	6a (Vigorous).	language	Indic	81.33599	23.43055
+Desiya	Desiya	dso	NA	desi1235	Bookkeeping	Indo-European, Indo-Iranian, Indo-Aryan, Outer Languages, Eastern, Oriya	50000	not endangered	overview	3 (Wider communication).	language	Indic	82.646	18.965
+Degaru	Degaru	dgu	NA	dega1238	Bookkeeping	Indo-European, Indo-Iranian, Indo-Aryan, Outer Languages, Eastern, Unclassified	10000	threatened	overview	6a (Vigorous).	language	Indic	86.7694	25.0461
+Kukna	Kukna	kex	NA	kukn1238	Bookkeeping	Indo-European, Indo-Iranian, Indo-Aryan, Outer Languages, Southern, Konkani	211000	not endangered	wordlist	3 (Wider communication).	language	Indic	73.5713	20.5657
+Bhalay	Bhalay	bhx	NA	bhal1245	Bookkeeping	Indo-European, Indo-Iranian, Indo-Aryan, Outer Languages, Southern, Unclassified	8670	threatened	overview	6a (Vigorous).	language	Indic	77.8268	21.2665
+Gowlan	Gowlan	goj	NA	gowl1242	Bookkeeping	Indo-European, Indo-Iranian, Indo-Aryan, Outer Languages, Southern, Unclassified	20200	not endangered	NA	6a (Vigorous).	language	Indic	77.2647	21.5096
+Tangshewi	Tangshewi	tnf	NA	tang1374	Bookkeeping	NA	NA	NA	overview	NA	language	Indic	71.2542	38.2267
+Northwestern Fars	Northwestern_Fars	faz	NA	nort2640	Bookkeeping	Indo-European, Indo-Iranian, Iranian, Western, Northwestern, Central Iran	NA	shifting	grammar_sketch	7 (Shifting).	language	Greater Mesopotamia	52.925	29.643
+Parsi-Dari	ParsiDari	prd	NA	pars1252	Bookkeeping	Indo-European, Indo-Iranian, Iranian, Western, Northwestern, Central Iran	350000	not endangered	NA	6a (Vigorous).	language	Greater Mesopotamia	58.624	32.994
+Parsi	Parsi	prp	NA	pars1251	Bookkeeping	Indo-European, Indo-Iranian, Iranian, Western, Northwestern, Central Iran	251000	threatened	ethnographic	6a (Vigorous).	language	Indic	74.438	20.625
+Khalaj	Khalaj	kjf	NA	khal1270	Bookkeeping	Indo-European, Indo-Iranian, Iranian, Western, Northwestern	50000	not endangered	NA	6a (Vigorous).	language	Greater Mesopotamia	49.576	36.5317
+Darwazi	Darwazi	drw	NA	darw1234	Bookkeeping	NA	NA	NA	grammar_sketch	NA	language	Indic	70.7643	38.3161
+Zarphatic	Zarphatic	zrp	NA	zarp1238	Bookkeeping	Indo-European, Italic, Romance, Italo-Western, Western, Gallo-Iberian, Gallo-Romance, Gallo-Rhaetian, Oïl, French	0	extinct	NA	10 (Extinct).	language	Europe	4.38771	45.5627
+Shuadit	Shuadit	sdt	NA	shua1252	Bookkeeping	Indo-European, Italic, Romance, Italo-Western, Western, Gallo-Iberian, Ibero-Romance, Oc	0	extinct	minimal	10 (Extinct).	language	Europe	5.06601	44.1692
+Katukína	Katukina	kav	NA	nucl1668	Bookkeeping	Katukinan	0	threatened	NA	9 (Dormant).	language	NE South America	-70.3822	-8.19121
+Narau	Narau	nxu	NA	nara1265	Bookkeeping	Kaure, Kaure Proper	NA	moribund	wordlist	Unattested.	language	N Coast New Guinea	139.876	-3.43594
+=/Kx'au//'ein	=/Kx?au//?ein	aue	NA	kxau1241	Bookkeeping	NA	NA	NA	overview	NA	language	S Africa	21.1793	-21.0554
+Maligo	Maligo	mwj	NA	mali1287	Bookkeeping	NA	NA	NA	overview	NA	language	S Africa	15.7421	-7.93095
+!O!ung	!O!ung	oun	NA	oung1238	Bookkeeping	NA	NA	NA	grammar_sketch	NA	language	S Africa	14.35	-15.3
+Emok	Emok	emo	NA	emok1238	Bookkeeping	NA	NA	NA	wordlist	NA	language	SE South America	-57.8892	-24.9202
+Sanapaná (Retired)	Sanapana_Retired	sap	NA	sana1281	Bookkeeping	NA	NA	NA	grammar	NA	language	SE South America	-58.90698	-22.11454
+Chol, Tila	Chol,_Tila	cti	NA	chol1285	Bookkeeping	NA	NA	NA	NA	NA	language	NA	NA	NA
+Tzeltal, Bachajón	Tzeltal,_Bachajon	tzb	NA	tzel1255	Bookkeeping	NA	NA	NA	NA	NA	language	NA	NA	NA
+Tzotzil, Chamula	Tzotzil,_Chamula	tzc	NA	tzot1262	Bookkeeping	NA	NA	NA	NA	NA	language	NA	NA	NA
+Tzotzil, Chenalhó	Tzotzil,_Chenalho	tze	NA	tzot1263	Bookkeeping	NA	NA	NA	NA	NA	language	NA	NA	NA
+Tzotzil, San Andrés Larrainzar	Tzotzil,_San_Andres_Larrainzar	tzs	NA	tzot1260	Bookkeeping	NA	NA	NA	NA	NA	language	NA	NA	NA
+Tzotzil, Huixtán	Tzotzil,_Huixtan	tzu	NA	tzot1261	Bookkeeping	NA	NA	NA	NA	NA	language	NA	NA	NA
+Tzotzil, Zinacantán	Tzotzil,_Zinacantan	tzz	NA	tzot1264	Bookkeeping	NA	NA	NA	NA	NA	language	NA	NA	NA
+Huastec, Southeastern	Huastec,_Southeastern	hsf	NA	huas1256	Bookkeeping	NA	NA	NA	NA	NA	language	NA	NA	NA
+Huastec, San Luís Potosí	Huastec,_San_Luis_Potosi	hva	NA	huas1255	Bookkeeping	NA	NA	NA	NA	NA	language	NA	NA	NA
+Chuj, Ixtatán	Chuj,_Ixtatan	cnm	NA	chuj1251	Bookkeeping	NA	NA	NA	NA	NA	language	NA	NA	NA
+Jakalteko, Western	Jakalteko,_Western	jai	NA	jaka1246	Bookkeeping	NA	NA	NA	NA	NA	language	NA	NA	NA
+Ixil, Nebaj	Ixil,_Nebaj	ixi	NA	ixil1253	Bookkeeping	NA	NA	NA	NA	NA	language	NA	NA	NA
+Ixil, Chajul	Ixil,_Chajul	ixj	NA	ixil1252	Bookkeeping	NA	NA	NA	NA	NA	language	NA	NA	NA
+Mam, Southern	Mam,_Southern	mms	NA	mams1234	Bookkeeping	NA	NA	NA	NA	NA	language	NA	NA	NA
+Mam, Tajumulco	Mam,_Tajumulco	mpf	NA	mamt1234	Bookkeeping	NA	NA	NA	NA	NA	language	NA	NA	NA
+Tacanec	Tacanec	mtz	NA	taca1258	Bookkeeping	NA	NA	NA	NA	NA	language	NA	NA	NA
+Mam, Central	Mam,_Central	mvc	NA	mamc1234	Bookkeeping	NA	NA	NA	NA	NA	language	NA	NA	NA
+Mam, Todos Santos Cuchumatán	Mam,_Todos_Santos_Cuchumatan	mvj	NA	mamt1235	Bookkeeping	NA	NA	NA	NA	NA	language	NA	NA	NA
+Poqomam, Eastern	Poqomam,_Eastern	poa	NA	poqo1257	Bookkeeping	NA	NA	NA	NA	NA	language	NA	NA	NA
+Poqomchi', Western	Poqomchi?,_Western	pob	NA	poqo1256	Bookkeeping	NA	NA	NA	NA	NA	language	NA	NA	NA
+Poqomam, Southern	Poqomam,_Southern	pou	NA	poqo1255	Bookkeeping	NA	NA	NA	NA	NA	language	NA	NA	NA
+Kaqchikel, Yepocapa Southwestern	Kaqchikel,_Yepocapa_Southwestern	cbm	NA	kaqc1271	Bookkeeping	NA	NA	NA	NA	NA	language	NA	NA	NA
+Kaqchikel, Northern	Kaqchikel,_Northern	ckc	NA	kaqc1275	Bookkeeping	NA	NA	NA	NA	NA	language	NA	NA	NA
+Kaqchikel, South Central	Kaqchikel,_South_Central	ckd	NA	kaqc1272	Bookkeeping	NA	NA	NA	NA	NA	language	NA	NA	NA
+Kaqchikel, Eastern	Kaqchikel,_Eastern	cke	NA	kaqc1273	Bookkeeping	NA	NA	NA	NA	NA	language	NA	NA	NA
+Kaqchikel, Southern	Kaqchikel,_Southern	ckf	NA	kaqc1274	Bookkeeping	NA	NA	NA	NA	NA	language	NA	NA	NA
+Kaqchikel, Santa María de Jesús	Kaqchikel,_Santa_Maria_de_Jesus	cki	NA	kaqc1276	Bookkeeping	NA	NA	NA	NA	NA	language	NA	NA	NA
+Kaqchikel, Santo Domingo Xenacoj	Kaqchikel,_Santo_Domingo_Xenacoj	ckj	NA	kaqc1278	Bookkeeping	NA	NA	NA	NA	NA	language	NA	NA	NA
+Kaqchikel, Akatenango Southwestern	Kaqchikel,_Akatenango_Southwestern	ckk	NA	kaqc1277	Bookkeeping	NA	NA	NA	NA	NA	language	NA	NA	NA
+Kaqchikel, Western	Kaqchikel,_Western	ckw	NA	kaqc1279	Bookkeeping	NA	NA	NA	NA	NA	language	NA	NA	NA
+Achi', Cubulco	Achi?,_Cubulco	acc	NA	achi1258	Bookkeeping	NA	NA	NA	NA	NA	language	NA	NA	NA
+K'iche', Cunén	K?iche?,_Cunen	cun	NA	kich1264	Bookkeeping	NA	NA	NA	NA	NA	language	NA	NA	NA
+K'iche', Joyabaj	K?iche?,_Joyabaj	quj	NA	kich1267	Bookkeeping	NA	NA	NA	NA	NA	language	NA	NA	NA
+K'iche', West Central	K?iche?,_West_Central	qut	NA	kich1266	Bookkeeping	NA	NA	NA	NA	NA	language	NA	NA	NA
+K'iche', Eastern	K?iche?,_Eastern	quu	NA	kich1265	Bookkeeping	NA	NA	NA	NA	NA	language	NA	NA	NA
+K'iche', San Andrés	K?iche?,_San_Andres	qxi	NA	kich1263	Bookkeeping	NA	NA	NA	NA	NA	language	NA	NA	NA
+Tz'utujil, Western	Tz?utujil,_Western	tzt	NA	tzut1249	Bookkeeping	NA	NA	NA	NA	NA	language	NA	NA	NA
+Maya, Chan Santa Cruz	Maya,_Chan_Santa_Cruz	yus	NA	maya1286	Bookkeeping	NA	NA	NA	NA	NA	language	NA	NA	NA
+Quetzaltepec Mixe	Quetzaltepec_Mixe	pxm	NA	quet1239	Bookkeeping	Mixe-Zoquean, Mixean, Oaxaca Mixean	8090	threatened	phonology	6b (Threatened).	language	Mesoamerica	-95.67269	16.92147
+Calo	Calo	rmr	NA	calo1235	Bookkeeping	NA	NA	NA	overview	NA	language	Europe	-3.5144	40.8339
+N'Ko	N?Ko	nqo	NA	nkoa1234	Bookkeeping	Mixed language	0	extinct	NA	9 (Second language only).	language	NA	NA	NA
+Chetco	Chetco	ctc	NA	chet1237	Bookkeeping	Eyak-Athabaskan, Athabaskan, Pacific Coast Athabaskan, Oregon Athabaskan, Tolowa-Chetco	5	extinct	NA	8b (Nearly extinct).	language	California	-124.376	42.6864
+Bainouk-Samik	BainoukSamik	bcb	NA	bain1260	Bookkeeping	Niger-Congo, Atlantic-Congo, Atlantic, Northern, Eastern Senegal-Guinea, Banyun	1850	shifting	NA	6b (Threatened).	language	African Savannah	-15.9969	12.5053
+Baga Mboteni	Baga_Mboteni	bgm	NA	baga1276	Bookkeeping	NA	NA	shifting	wordlist	NA	language	African Savannah	-12.07358	12.27246
+Baga Kaloum	Baga_Kaloum	bqf	NA	baga1271	Bookkeeping	Niger-Congo, Atlantic-Congo, Atlantic, Southern, Mel, Temne, Baga	0	extinct	NA	10 (Extinct).	language	African Savannah	-12.887	9.951
+Baga Sobané	Baga_Sobane	bsv	NA	baga1274	Bookkeeping	Niger-Congo, Atlantic-Congo, Atlantic, Southern, Mel, Temne, Baga	0	extinct	NA	10 (Extinct).	language	African Savannah	-13.9054	9.98865
+Ngong	Ngong	nnx	NA	ngon1275	Bookkeeping	NA	NA	nearly extinct	overview	NA	language	African Savannah	13.42855	8.78874
+Tunen (Retired)	Tunen_Retired	baz	NA	tune1241	Bookkeeping	NA	NA	NA	overview	NA	language	African Savannah	10.67	4.75
+Subi	Subi	xsj	NA	subi1247	Bookkeeping	NA	NA	threatened	overview	NA	language	S Africa	31.3594	-2.93387
+Rufiji	Rufiji	rui	NA	rufi1234	Bookkeeping	Niger-Congo, Atlantic-Congo, Volta-Congo, Benue-Congo, Bantoid, Southern, Narrow Bantu, Central, P, Matuumbi (P.12)	200000	not endangered	NA	6a (Vigorous).	language	S Africa	38.7133	-7.99059
+Ndonde Hamba	Ndonde_Hamba	njd	NA	ndon1252	Bookkeeping	Niger-Congo, Atlantic-Congo, Volta-Congo, Benue-Congo, Bantoid, Southern, Narrow Bantu, Central, P, Yao (P.24)	10000	threatened	overview	6b (Threatened).	language	S Africa	38.1253	-10.5584
+Buya	Buya	byy	NA	buya1245	Bookkeeping	NA	NA	NA	overview	NA	language	S Africa	26.298	-4.90828
+Gbati-ri	Gbatiri	gti	NA	gbat1238	Bookkeeping	NA	NA	NA	comparative	NA	language	S Africa	28.7911	2.98585
+Bubia	Bubia	bbx	NA	bubi1249	Bookkeeping	Niger-Congo, Atlantic-Congo, Volta-Congo, Benue-Congo, Bantoid, Southern, Narrow Bantu, Northwest, A, Bubi-Benga (A.31)	600	moribund	NA	6a (Vigorous).	language	African Savannah	9.22304	4.02178
+Beti (Cameroon)	Beti_Cameroon	btb	NA	beti1250	Bookkeeping	NA	NA	NA	overview	NA	language	African Savannah	11.6896	3.22265
+Mengisa	Mengisa	mct	NA	meng1263	Bookkeeping	Niger-Congo, Atlantic-Congo, Volta-Congo, Benue-Congo, Bantoid, Southern, Narrow Bantu, Northwest, A, Ewondo-Fang (A.71)	20000	threatened	long_grammar	6b (Threatened).	language	African Savannah	11.3947	4.5932
+Yangho	Yangho	ynh	NA	yang1292	Bookkeeping	NA	NA	NA	overview	NA	language	S Africa	13.0213	-1.92218
+Teke-Nzikou	TekeNzikou	nzu	NA	teke1279	Bookkeeping	Niger-Congo, Atlantic-Congo, Volta-Congo, Benue-Congo, Bantoid, Southern, Narrow Bantu, Northwest, B, Teke (B.74)	NA	threatened	NA	6b (Threatened).	language	S Africa	15.2047	-2.65261
+Borna (Democratic Republic of Congo)	Borna_Democratic_Republic_of_Congo	bxx	NA	born1252	Bookkeeping	NA	NA	NA	overview	NA	language	S Africa	26.0814	1.79156
+Kwak	Kwak	kwq	NA	kwak1264	Bookkeeping	NA	NA	NA	overview	NA	language	African Savannah	11.1087	6.66524
+Songa	Songa	sgo	NA	song1304	Bookkeeping	NA	NA	NA	overview	NA	language	S Africa	26.016	-4.01205
+Yamongeri	Yamongeri	ymg	NA	yamo1246	Bookkeeping	Niger-Congo, Atlantic-Congo, Volta-Congo, Benue-Congo, Bantoid, Southern, Narrow Bantu, Northwest, C, Bangi-Ntomba (C.36)	13000	not endangered	comparative	6a (Vigorous).	language	S Africa	22.3073	-0.24248
+Foma	Foma	fom	NA	foma1238	Bookkeeping	Niger-Congo, Atlantic-Congo, Volta-Congo, Benue-Congo, Bantoid, Southern, Narrow Bantu, Northwest, C, Soko-Kele (C.56)	13000	not endangered	wordlist	6a (Vigorous).	language	S Africa	24.3202	0.88032
+Bemba (Democratic Republic of Congo)	Bemba_Democratic_Republic_of_Congo	bmy	NA	bemb1258	Bookkeeping	NA	NA	NA	overview	NA	language	S Africa	28.08	-10
+Nde-Gbite	NdeGbite	ned	NA	ndeg1238	Bookkeeping	Niger-Congo, Atlantic-Congo, Volta-Congo, Benue-Congo, Bantoid, Southern, Wide Grassfields, Narrow Grassfields, Unclassified	NA	not endangered	overview	6a (Vigorous).	language	African Savannah	10.47	7.065
+Fum	Fum	fum	NA	fumm1238	Bookkeeping	Niger-Congo, Atlantic-Congo, Volta-Congo, Benue-Congo, Bantoid, Southern, Wide Grassfields, Narrow Grassfields	NA	not endangered	overview	6a (Vigorous).	language	African Savannah	11.1087	6.66524
+Áncá	Anca	acb	NA	anca1236	Bookkeeping	Niger-Congo, Atlantic-Congo, Volta-Congo, Benue-Congo, Bantoid, Unclassified	300	not endangered	overview	6a (Vigorous).	language	African Savannah	11.1087	6.66524
+Odut	Odut	oda	NA	odut1238	Bookkeeping	Niger-Congo, Atlantic-Congo, Volta-Congo, Benue-Congo, Cross River, Delta Cross, Upper Cross, Kiong-Korop	20	moribund	overview	8b (Nearly extinct).	language	African Savannah	8.27253	5.20317
+Ibilo	Ibilo	ibi	NA	ibil1238	Bookkeeping	NA	NA	NA	overview	NA	language	African Savannah	6.08384	7.42662
+Ihievbe	Ihievbe	ihi	NA	ihie1238	Bookkeeping	Niger-Congo, Atlantic-Congo, Volta-Congo, Benue-Congo, Edoid, North-Central	NA	not endangered	NA	6a (Vigorous).	language	African Savannah	6.08581	7.00917
+Uokha	Uokha	uok	NA	uokh1238	Bookkeeping	NA	NA	NA	overview	NA	language	African Savannah	5.97783	7.00611
+Idesa	Idesa	ids	NA	ides1238	Bookkeeping	Niger-Congo, Atlantic-Congo, Volta-Congo, Benue-Congo, Edoid, Northwestern, Southern	5690	not endangered	NA	6a (Vigorous).	language	African Savannah	6.2929	7.34629
+Aduge	Aduge	adu	NA	adug1238	Bookkeeping	Niger-Congo, Atlantic-Congo, Volta-Congo, Benue-Congo, Edoid, Northwestern	1900	threatened	overview	6a (Vigorous).	language	African Savannah	6.13085	7.64567
+Kakihum	Kakihum	kxe	NA	kaki1247	Bookkeeping	NA	NA	NA	overview	NA	language	African Savannah	5.58853	10.8119
+Nyeng	Nyeng	nfg	NA	nyen1255	Bookkeeping	NA	NA	NA	NA	NA	language	NA	NA	NA
+Shakara	Shakara	nfk	NA	shak1238	Bookkeeping	NA	NA	NA	NA	NA	language	NA	NA	NA
+Kolum So Dogon	Kolum_So_Dogon	dkl	NA	kolu1247	Bookkeeping	NA	NA	NA	overview	NA	language	African Savannah	-3.8795	14.3617
+Walo Kumbe Dogon	Walo_Kumbe_Dogon	dwl	NA	walo1239	Bookkeeping	NA	NA	NA	NA	NA	language	NA	NA	NA
+Gey	Gey	guv	NA	geya1234	Bookkeeping	NA	NA	NA	overview	NA	language	African Savannah	13.5809	9.37513
+Gengle	Gengle	geg	NA	geng1243	Bookkeeping	Niger-Congo, Atlantic-Congo, Volta-Congo, North, Adamawa-Ubangi, Adamawa, Leko-Nimbari, Mumuye-Yandang, Mumuye	4000	not endangered	wordlist	6a (Vigorous).	language	African Savannah	11.9527	8.8956
+Yendang (Retired)	Yendang_Retired	yen	NA	yend1240	Bookkeeping	NA	NA	NA	overview	NA	language	African Savannah	12.1396	9.0159
+Ngombe (Central African Republic)	Ngombe_Central_African_Republic	nmj	NA	ngom1265	Bookkeeping	Niger-Congo, Atlantic-Congo, Volta-Congo, North, Adamawa-Ubangi, Ubangi, Gbaya-Manza-Ngbaka, Southwest	11600	shifting	NA	6a (Vigorous).	language	African Savannah	15.2154	3.90658
+Buraka	Buraka	bkg	NA	bura1269	Bookkeeping	Niger-Congo, Atlantic-Congo, Volta-Congo, North, Adamawa-Ubangi, Ubangi, Sere-Ngbaka-Mba, Ngbaka-Mba, Ngbaka, Western, Gbanzili	3800	threatened	comparative	6a (Vigorous).	language	S Africa	20.7161	4.42283
+Kpatili	Kpatili	kym	NA	kpat1244	Bookkeeping	Niger-Congo, Atlantic-Congo, Volta-Congo, North, Adamawa-Ubangi, Ubangi, Zande, Zande-Nzakara	4500	shifting	NA	6a (Vigorous).	language	African Savannah	21.8594	5.17203
+Syenara Senoufo	Syenara_Senoufo	shz	NA	syen1235	Bookkeeping	Niger-Congo, Atlantic-Congo, Volta-Congo, North, Gur, Senufo, Senari	155000	not endangered	NA	6a (Vigorous). Recognized language (1982, Decree No. 159 of 19 July, Article 1).	language	African Savannah	-5.8581	10.5954
+Shempire Senoufo	Shempire_Senoufo	seb	NA	shem1239	Bookkeeping	Niger-Congo, Atlantic-Congo, Volta-Congo, North, Gur, Senufo, Suppire-Mamara	114800	not endangered	NA	6a (Vigorous).	language	African Savannah	-6.37129	10.4867
+Tingal	Tingal	tie	NA	ting1253	Bookkeeping	NA	NA	NA	overview	NA	language	African Savannah	31.1244	12.1797
+Forest Maninka	Forest_Maninka	myq	NA	fore1268	Bookkeeping	NA	NA	NA	overview	NA	language	African Savannah	-7.53151	9.49685
+Sara Dunjo	Sara_Dunjo	koj	NA	sara1320	Bookkeeping	NA	NA	NA	overview	NA	language	African Savannah	19.9446	8.99175
+Aramanik	Aramanik	aam	NA	aram1252	Bookkeeping	NA	NA	NA	overview	NA	language	S Africa	37.3491	-2.90656
+Kisankasa	Kisankasa	kqh	NA	kisa1264	Bookkeeping	Nilo-Saharan, Satellite-Core, Core, Eastern Sudanic, Southern (n languages), Nilotic, Southern, Kalenjin, Nandi-Markweta, Nandi	4670	shifting	NA	7 (Shifting).	language	S Africa	35.6751	-8.5411
+Mediak	Mediak	mwx	NA	medi1249	Bookkeeping	Nilo-Saharan, Satellite-Core, Core, Eastern Sudanic, Southern (n languages), Nilotic, Southern, Kalenjin, Nandi-Markweta, Nandi	5270	shifting	overview	7 (Shifting).	language	S Africa	37.8782	-8.52758
+Maskoy Pidgin	Maskoy_Pidgin	mhh	NA	mask1241	Bookkeeping	NA	NA	NA	overview	NA	language	SE South America	-61.901	-22.234
+Chilean Quechua	Chilean_Quechua	cqu	NA	chil1283	Bookkeeping	NA	NA	NA	overview	NA	language	Andean	-67.7604	-23.7036
+Malinguat	Malinguat	sic	NA	mali1288	Bookkeeping	NA	NA	NA	NA	NA	language	NA	NA	NA
+Bikaru-Bragge	BikaruBragge	bic	NA	bika1251	Bookkeeping	Sepik, Sepik Hill, Sanio	100	shifting	wordlist	8a (Moribund).	language	N Coast New Guinea	142.945	-4.86
+Lang'e	Lang?e	yne	NA	lang1333	Bookkeeping	Sino-Tibetan, Tibeto-Burman, Ngwi-Burmese, Ngwi, Central	2000	not endangered	NA	6a (Vigorous). Language of recognized nationality: Yi.	language	NA	NA	NA
+Southwestern Nisu	Southwestern_Nisu	nsv	NA	sout3128	Bookkeeping	Sino-Tibetan, Tibeto-Burman, Ngwi-Burmese, Ngwi, Southeastern	15000	threatened	overview	6b (Threatened). Language of recognized nationality: Yi.	language	Southeast Asia	101.412	23.058
+Lambichhong	Lambichhong	lmh	NA	lamb1277	Bookkeeping	Sino-Tibetan, Tibeto-Burman, Western Tibeto-Burman, Himalayan, Kiranti, Eastern	1500	moribund	NA	7 (Shifting). Language of recognized indigenous nationality: Rai.	language	Indic	87.2168	27.0543
+Lumba-Yakkha	LumbaYakkha	luu	NA	lumb1250	Bookkeeping	Sino-Tibetan, Tibeto-Burman, Western Tibeto-Burman, Himalayan, Kiranti, Eastern	1200	threatened	NA	6b (Threatened).	language	Indic	87.3146	27.232
+Pongyong	Pongyong	pgy	NA	pong1252	Bookkeeping	NA	NA	NA	overview	NA	language	Indic	88.0925	26.8613
+Phangduwali	Phangduwali	phw	NA	phan1256	Bookkeeping	Sino-Tibetan, Tibeto-Burman, Western Tibeto-Burman, Himalayan, Kiranti, Eastern	290	shifting	NA	7 (Shifting). Language of recognized indigenous nationality: Rai.	language	Indic	87.35371	27.15945
+Yamphe	Yamphe	yma	NA	yamp1243	Bookkeeping	NA	NA	NA	overview	NA	language	Indic	87.1309	27.6069
+Lingkhim	Lingkhim	lii	NA	ling1268	Bookkeeping	NA	NA	NA	overview	NA	language	Indic	87.9992	26.992
+Northwestern Tamang	Northwestern_Tamang	tmk	NA	nort3144	Bookkeeping	Sino-Tibetan, Tibeto-Burman, Western Tibeto-Burman, Bodish, West Bodish, Gurung-Tamang, Tamang	67200	not endangered	NA	6a (Vigorous). Language of recognized indigenous nationality: Tamang.	language	Indic	85.1648	27.9087
+Southwestern Tamang	Southwestern_Tamang	tsf	NA	sout2718	Bookkeeping	NA	NA	NA	overview	NA	language	Indic	84.9036	27.5722
+Panang	Panang	pcr	NA	pana1292	Bookkeeping	NA	NA	NA	overview	NA	language	Indic	86.8317	30.7272
+Nupbikha	Nupbikha	npb	NA	nupb1238	Bookkeeping	Sino-Tibetan, Tibeto-Burman, Western Tibeto-Burman, Bodish, East Bodish, Bumthang	NA	threatened	comparative	6a (Vigorous).	language	Indic	90.534	27.4301
+Adap	Adap	adp	NA	adap1234	Bookkeeping	NA	NA	NA	overview	NA	language	Indic	90.3369	27.141
+Thudam	Thudam	thw	NA	thud1238	Bookkeeping	Sino-Tibetan, Tibeto-Burman, Western Tibeto-Burman, Bodish, Central Bodish, Unclassified	1800	not endangered	NA	6a (Vigorous). Language of recognized indigenous nationality: Thudam.	language	Indic	87.6189	27.7678
+Tawang Monpa	Tawang_Monpa	twm	NA	tawa1289	Bookkeeping	Sino-Tibetan, Tibeto-Burman, Western Tibeto-Burman, Bodish, East Bodish	9900	shifting	comparative	6a (Vigorous).	language	Indic	92.1838	27.7686
+Takpa (Retired)	Takpa_Retired	tkk	NA	takp1246	Bookkeeping	NA	NA	NA	overview	NA	language	Indic	88.4254	28.1652
+Lahta Karen	Lahta_Karen	kvt	NA	laht1236	Bookkeeping	Sino-Tibetan, Tibeto-Burman, Karenic, Northern	9550	not endangered	NA	6a (Vigorous).	language	Southeast Asia	97.3791	20.1797
+Purum (Retired)	Purum_Retired	puz	NA	puru1262	Bookkeeping	NA	NA	NA	overview	NA	language	Southeast Asia	93.982	24.662
+Yos	Yos	yos	NA	yosa1234	Bookkeeping	NA	NA	NA	overview	NA	language	Southeast Asia	95.7566	25.4364
+Khumi Awa Chin	Khumi_Awa_Chin	cka	NA	khum1250	Bookkeeping	NA	NA	NA	overview	NA	language	Indic	93.3656	20.5226
+Welaung	Welaung	weu	NA	wela1234	Bookkeeping	Sino-Tibetan, Tibeto-Burman, Kuki-Chin, Peripheral, Southern	5000	not endangered	overview	6a (Vigorous).	language	Indic	98.3197	27.0457
+Puimei Naga	Puimei_Naga	npu	NA	puim1234	Bookkeeping	Sino-Tibetan, Tibeto-Burman, Unclassified	3000	not endangered	ethnographic	6a (Vigorous).	language	Southeast Asia	93.7344	25.2973
+Inpui Naga	Inpui_Naga	nkf	NA	inpu1234	Bookkeeping	Sino-Tibetan, Tibeto-Burman, Unclassified	29200	not endangered	wordlist	6a (Vigorous).	language	Southeast Asia	93.8096	24.8761
+Chaungtha	Chaungtha	ccq	NA	chau1262	Bookkeeping	NA	NA	NA	overview	NA	language	Southeast Asia	96.2457	20.0653
+Yangbye	Yangbye	ybd	NA	yang1301	Bookkeeping	NA	NA	NA	overview	NA	language	Southeast Asia	94.2543	18.524
+Southern Lolopo	Southern_Lolopo	ysp	NA	sout3129	Bookkeeping	Sino-Tibetan, Tibeto-Burman, Ngwi-Burmese, Ngwi, Central	190000	threatened	overview	6b (Threatened). Language of recognized nationality: Yi.	language	Southeast Asia	100.89	23.847
+Sansu	Sansu	sca	NA	sans1276	Bookkeeping	NA	NA	NA	overview	NA	language	Southeast Asia	100.099	21.6402
+Mahei	Mahei	mja	NA	mahe1238	Bookkeeping	NA	NA	NA	wordlist	NA	language	Southeast Asia	100.017	21.6558
+Lui	Lui	lba	NA	luia1234	Bookkeeping	Sino-Tibetan, Tibeto-Burman, Unclassified	0	extinct	overview	10 (Extinct).	language	Southeast Asia	99.6619	21.3635
+Laopang	Laopang	lbg	NA	laop1234	Bookkeeping	Sino-Tibetan, Tibeto-Burman, Ngwi-Burmese, Ngwi, Unclassified	9550	not endangered	NA	6a (Vigorous).	language	Southeast Asia	100.079	20.7809
+Lopi	Lopi	lov	NA	lopi1243	Bookkeeping	Sino-Tibetan, Tibeto-Burman, Ngwi-Burmese, Ngwi, Southern	NA	not endangered	NA	6a (Vigorous). Language of recognized nationality: Hani.	language	Southeast Asia	97.0833	25.0833
+Palu	Palu	pbz	NA	palu1254	Bookkeeping	NA	NA	NA	overview	NA	language	Southeast Asia	97.1666	18.5
+Pao	Pao	ppa	NA	paoo1245	Bookkeeping	NA	NA	NA	overview	NA	language	Indic	80.9619	24.0622
+Naxi (Retired)	Naxi_Retired	nbf	NA	naxi1246	Bookkeeping	NA	NA	NA	specific_feature	NA	language	Southeast Asia	100.18172	27.45988
+Dafla	Dafla	dap	NA	nisi1239	Bookkeeping	NA	NA	NA	overview	NA	language	Indic	93.1284	27.3708
+Lama (Myanmar)	Lama_Myanmar	lay	NA	lama1289	Bookkeeping	Sino-Tibetan, Tibeto-Burman, Northeastern Tibeto-Burman, Bai	60000	not endangered	overview	6a (Vigorous). Language of recognized nationality: Bai.	language	Indic	98.4694	27.6237
+Norra	Norra	nrr	NA	norr1243	Bookkeeping	Tai-Kadai	0	extinct	overview	10 (Extinct).	language	Indic	98.4502	27.5088
+Ayi (China)	Ayi_China	ayx	NA	ayic1234	Bookkeeping	NA	NA	NA	overview	NA	language	Indic	98.8684	27.1213
+Bhatola	Bhatola	btl	NA	bhat1237	Bookkeeping	NA	NA	NA	overview	NA	language	Indic	80.842	22.7174
+Chipiajes	Chipiajes	cbe	NA	chip1236	Bookkeeping	NA	NA	NA	overview	NA	language	NE South America	-71.1667	3.08332
+Cagua	Cagua	cbh	NA	cagu1236	Bookkeeping	NA	NA	NA	overview	NA	language	NE South America	-74	3.99999
+Coxima	Coxima	kox	NA	coxi1236	Bookkeeping	NA	NA	NA	overview	NA	language	NE South America	-72.0833	6.08332
+Gelao	Gelao	gio	NA	gela1261	Bookkeeping	NA	NA	NA	overview	NA	language	Southeast Asia	106.235	26.1545
+Tai Pao (Retired)	Tai_Pao_Retired	thc	NA	taih1245	Bookkeeping	NA	NA	NA	phonology	NA	language	Southeast Asia	104.225	19.1282
+Thu Lao	Thu_Lao	tyl	NA	thul1247	Bookkeeping	Tai-Kadai, Kam-Tai, Tai, Southwestern	200	shifting	NA	6b (Threatened).	language	Southeast Asia	104.251	22.7528
+Pu Ko	Pu_Ko	puk	NA	puko1234	Bookkeeping	NA	NA	NA	overview	NA	language	Southeast Asia	101.731	20.2551
+Rien	Rien	rie	NA	rien1238	Bookkeeping	NA	NA	NA	overview	NA	language	Southeast Asia	102.591	19.5084
+Kang	Kang	kyp	NA	kang1282	Bookkeeping	Tai-Kadai, Kam-Tai, Kam-Sui	81700	not endangered	overview	6a (Vigorous).	language	Southeast Asia	100.671	22.4373
+Gabutamon	Gabutamon	gav	NA	gabu1248	Bookkeeping	NA	NA	NA	overview	NA	language	N Coast New Guinea	146.621	-5.8075
+Foia Foia	Foia_Foia	ffi	NA	foia1236	Bookkeeping	Trans-New Guinea, Inland Gulf, Minanibai	180	not endangered	NA	6a (Vigorous).	language	NA	NA	NA
+Kosena	Kosena	kze	NA	kose1239	Bookkeeping	Trans-New Guinea, Kainantu-Goroka, Kainantu, Gadsup-Auyana-Awa	2000	not endangered	grammar_sketch	5 (Developing).	language	Interior New Guinea	145.66	-6.46414
+Ontenu	Ontenu	ont	NA	onte1239	Bookkeeping	Trans-New Guinea, Kainantu-Goroka, Kainantu, Gadsup-Auyana-Awa	3000	not endangered	overview	6a (Vigorous).	language	Interior New Guinea	145.765	-6.45912
+Omati	Omati	mgx	NA	omat1240	Bookkeeping	NA	NA	NA	overview	NA	language	S New Guinea	144.005	-7.39808
+Adabe	Adabe	adb	NA	adab1235	Bookkeeping	Trans-New Guinea, West, Timor-Alor-Pantar, Timor	5000	not endangered	specific_feature	6a (Vigorous).	language	Oceania	125.576	-8.22674
+Pokangá	Pokanga	pok	NA	poka1242	Bookkeeping	Tucanoan, Eastern Tucanoan, Bará-Tuyuka	100	moribund	NA	7 (Shifting).	language	NE South America	-69.5607	0.35794
+Tetete	Tetete	teb	NA	tete1252	Bookkeeping	Tucanoan, Western Tucanoan	0	extinct	NA	10 (Extinct).	language	NE South America	-76.5761	-0.02668
+Karipuna do Amapa	Karipuna_do_Amapa	kgm	NA	kari1309	Bookkeeping	Tupian, Tupí-Guaraní, Kawahib	0	extinct	NA	10 (Extinct).	language	NE South America	-52.42	-2.92
+Nootka	Nootka	noo	NA	noot1239	Bookkeeping	NA	NA	NA	overview	NA	language	Alaska-Oregon	-126.086	49.6212
+Laba	Laba	lau	NA	laba1241	Bookkeeping	West Papuan, North Halmahera, Galela-Loloda	2000	threatened	dialectology	6a (Vigorous).	language	Oceania	127.583	1.66675
+Yugh (Retired)	Yugh_Retired	yuu	NA	yugh1240	Bookkeeping	NA	NA	NA	overview	NA	language	Inner Asia	89.74791	60.87784
+Maramba	Maramba	myd	NA	mara1407	Bookkeeping	Yuat	840	not endangered	overview	6a (Vigorous).	language	N Coast New Guinea	143.735	-4.23908
+Babalia Creole Arabic	Babalia_Creole_Arabic	bbz	ara	baba1273	Bookkeeping	Creole, Arabic based	3940	shifting	phonology	8b (Nearly extinct).	language	African Savannah	16.6925	12.7617
+Chuanqiandian Cluster Miao	Chuanqiandian_Cluster_Miao	cqd	hmn	chua1256	Bookkeeping	Hmong-Mien, Hmongic, Chuanqiandian	1400000	not endangered	overview	5 (Developing). Language of recognized nationality: Miao.	language	Southeast Asia	101.95	22.5638
+Tsotsitaal	Tsotsitaal	fly	NA	tsot1242	Speech Register	Creole, Afrikaans based	0	extinct	dictionary	9 (Dormant).	language	S Africa	27.4955	-25.8633
+Ngatik Men's Creole	Ngatik_Men?s_Creole	ngm	NA	ngat1248	Speech Register	Creole, English based, Pacific	700	threatened	minimal	6b (Threatened).	language	Oceania	157.156112	5.78748
+La'bi	La?bi	lbi	NA	labi1244	Speech Register	Niger-Congo, Atlantic-Congo, Volta-Congo, North, Adamawa-Ubangi, Adamawa, La’bi	4400	extinct	specific_feature	9 (Second language only).	language	African Savannah	15.2895	7.85817
+Daza	Daza	dzd	NA	daza1244	Unattested	NA	NA	NA	overview	NA	language	African Savannah	10.48652	10.11845
+Lumbee	Lumbee	lmz	NA	lumb1237	Unattested	Algic, Algonquian, Unclassified	0	extinct	socling	9 (Dormant).	language	E North America	-78.4531	35.6171
+Sentinel	Sentinel	std	NA	sent1241	Unattested	Andamanese, South Andamanese	150	threatened	overview	6b (Threatened).	language	Southeast Asia	92.2534	11.553
+Giyug	Giyug	giy	NA	giyu1238	Unattested	Australian, Daly, Bringen-Wagaydy, Wagaydy	0	nearly extinct	NA	10 (Extinct).	language	N Australia	130.092	-13.2001
+Wik-Keyangan	WikKeyangan	wif	NA	wikk1239	Unattested	Australian, Pama-Nyungan, Paman, Middle Pama	0	nearly extinct	comparative	10 (Extinct).	language	N Australia	142.005	-14.2649
+Ngurmbur	Ngurmbur	nrx	NA	ngur1260	Unattested	Australian, Umbugarla-Ngumbur	0	nearly extinct	NA	10 (Extinct).	language	N Australia	132.508	-12.6483
+Manangkari	Manangkari	znk	NA	mana1248	Unattested	Australian, Yiwaidjan, Yiwaidjic	0	extinct	overview	10 (Extinct).	language	N Australia	132.352	-11.361
+Agariya	Agariya	agi	NA	agar1251	Unattested	Austro-Asiatic, Munda, North Munda, Kherwari	72000	not endangered	ethnographic	6a (Vigorous).	language	Indic	82.297	24.5024
+Palumata	Palumata	pmc	NA	palu1237	Unattested	NA	NA	NA	comparative	NA	language	Oceania	128.762	-3.024
+Moksela	Moksela	vms	NA	moks1249	Unattested	Austronesian, Malayo-Polynesian, Central-Eastern Malayo-Polynesian, Central Maluku, Buru	0	extinct	NA	10 (Extinct).	language	Oceania	128.654	-3.098
+Pankararé	Pankarare	pax	NA	pank1235	Unattested	Unclassified	0	extinct	overview	9 (Dormant).	language	NE South America	-39.6667	-9.08332
+Papavô	Papavo	ppv	NA	papa1263	Unattested	NA	NA	NA	overview	NA	language	NE South America	-72	-9.5
+Rer Bare	Rer_Bare	rer	NA	rerb1235	Unattested	Unclassified	0	extinct	NA	10 (Extinct).	language	Greater Abyssinia	41.7065	4.11661
+Truká	Truka	tka	NA	truk1242	Unattested	Unclassified	0	extinct	overview	9 (Dormant).	language	NE South America	-39	-8.49999
+Tremembé	Tremembe	tme	NA	trem1235	Unattested	Unclassified	0	extinct	overview	9 (Dormant).	language	NE South America	-40.204	-3.09359
+Wakoná	Wakona	waf	NA	wako1235	Unattested	Unclassified	0	extinct	NA	9 (Dormant).	language	NE South America	-36.5	-9.91666
+Mawa (Nigeria)	Mawa_Nigeria	wma	NA	mawa1236	Unattested	Unclassified	0	extinct	overview	10 (Extinct).	language	African Savannah	9.72407	10.8527
+Weyto	Weyto	woy	NA	weyt1237	Unattested	Unclassified	0	extinct	minimal	9 (Dormant).	language	Greater Abyssinia	35.63369	11.94153
+Wasu	Wasu	wsu	NA	wasu1238	Unattested	Unclassified	0	extinct	overview	9 (Dormant).	language	NE South America	-36.8333	-9.74999
+Himarimã	Himarima	hir	NA	hima1247	Unattested	Unclassified	40	not endangered	overview	6b (Threatened).	language	NE South America	-64.70047	-6.25217
+Katabaga	Katabaga	ktq	NA	kata1268	Unattested	Austronesian, Malayo-Polynesian, Unclassified	0	extinct	overview	10 (Extinct).	language	Oceania	121.544	17.9509
+Karahawyana	Karahawyana	xkh	NA	kara1475	Unattested	NA	NA	NA	comparative	NA	language	NE South America	-57.8716	-1.29991
+Sorsogon Ayta	Sorsogon_Ayta	ays	NA	sors1239	Unattested	Austronesian, Malayo-Polynesian, Greater Central Philippine, Central Philippine	15	moribund	overview	8b (Nearly extinct).	language	Oceania	124.165	13.0426
+Tayabas Ayta near Lucena City in Western Quezon	Tayabas_Ayta_near_Lucena_City_in_Western_Quezon	ayy	NA	taya1256	Unattested	Austronesian, Malayo-Polynesian, Greater Central Philippine, Central Philippine	0	extinct	comparative	10 (Extinct).	language	Oceania	121.293	16.3171
+Villa Viciosa Agta	Villa_Viciosa_Agta	dyg	NA	vill1242	Unattested	Austronesian, Malayo-Polynesian	0	extinct	socling	10 (Extinct).	language	Oceania	120.638	17.471
+Barbacoas	Barbacoas	bpb	NA	barb1242	Unattested	Barbacoan, Northern	0	extinct	NA	10 (Extinct).	language	Andean	-78.4834	1.5206
+Arma	Arma	aoh	NA	arma1244	Unattested	Paezan, Coconuco	0	extinct	ethnographic	10 (Extinct).	language	Andean	-76	2.03332
+Runa	Runa	rna	NA	runa1235	Unattested	NA	NA	NA	overview	NA	language	Andean	-76.5	2.74999
+Nagarchal	Nagarchal	nbg	NA	naga1399	Unattested	Dravidian, South-Central, Gondi-Kui, Gondi	0	extinct	socling	10 (Extinct).	language	Indic	75.8519	25.5399
+Pardhan	Pardhan	pch	NA	pard1245	Unattested	Dravidian, South-Central, Gondi-Kui, Gondi	135000	threatened	comparative	6b (Threatened).	language	Indic	79.7773	22.1666
+Badeshi	Badeshi	bdz	NA	bade1240	Unattested	Indo-European, Indo-Iranian, Unclassified	0	extinct	socling	9 (Dormant).	language	Indic	72.6823	35.2655
+Yalakalore	Yalakalore	xyl	NA	yala1242	Unattested	NA	NA	NA	overview	NA	language	NE South America	-59.9925	-13.2396
+Nshi	Nshi	nsc	NA	nshi1235	Unattested	Niger-Congo, Atlantic-Congo, Volta-Congo, Benue-Congo, Bantoid, Unclassified	NA	not endangered	overview	6a (Vigorous).	language	African Savannah	10.58	7.22
+Dungu	Dungu	dbv	NA	dung1254	Unattested	Niger-Congo, Atlantic-Congo, Volta-Congo, Benue-Congo, Kainji, Eastern, Northern Jos, Kauru	1100	shifting	socling	6a (Vigorous).	language	African Savannah	8.19543	10.5043
+Kaivi	Kaivi	kce	NA	kaiv1238	Unattested	Niger-Congo, Atlantic-Congo, Volta-Congo, Benue-Congo, Kainji, Eastern, Northern Jos, Kauru	2320	shifting	overview	6a (Vigorous).	language	African Savannah	8.10795	10.4328
+Vono	Vono	kch	NA	vono1238	Unattested	Niger-Congo, Atlantic-Congo, Volta-Congo, Benue-Congo, Kainji, Eastern, Northern Jos, Kauru	500	threatened	socling	6a (Vigorous).	language	African Savannah	8.20774	10.4357
+Tumi	Tumi	kku	NA	tumi1238	Unattested	Niger-Congo, Atlantic-Congo, Volta-Congo, Benue-Congo, Kainji, Eastern, Northern Jos, Kauru	2270	shifting	overview	6a (Vigorous).	language	African Savannah	8.10378	10.5113
+Shuwa-Zamani	ShuwaZamani	ksa	NA	shuw1238	Unattested	Niger-Congo, Atlantic-Congo, Volta-Congo, Benue-Congo, Kainji, Eastern, Northern Jos, Kauru	1000	threatened	overview	6a (Vigorous).	language	African Savannah	14	12.25
+Mala (Nigeria)	Mala_Nigeria	ruy	NA	mala1471	Unattested	Niger-Congo, Atlantic-Congo, Volta-Congo, Benue-Congo, Kainji, Eastern, Northern Jos, Kauru	6630	shifting	overview	6a (Vigorous).	language	African Savannah	8.09838	10.5776
+Ruma	Ruma	ruz	NA	ruma1250	Unattested	Niger-Congo, Atlantic-Congo, Volta-Congo, Benue-Congo, Kainji, Eastern, Northern Jos, Kauru	5090	shifting	overview	6a (Vigorous).	language	African Savannah	8.21883	10.571
+Dek	Dek	dek	NA	dekk1240	Unattested	Niger-Congo, Atlantic-Congo, Volta-Congo, North, Adamawa-Ubangi, Adamawa, Mbum-Day, Mbum, Unclassified	2980	threatened	comparative	6a (Vigorous).	language	African Savannah	14.4833	11.0183
+Pisabo	Pisabo	pig	NA	pisa1244	Unattested	Panoan	500	shifting	comparative	6b (Threatened).	language	NE South America	-73.3411	-6.32551
+Xipináwa	Xipinawa	xip	NA	xipi1238	Unattested	NA	NA	NA	overview	NA	language	NE South America	-68.8333	-8.74999
+Shinabo	Shinabo	snh	NA	shin1267	Unattested	NA	NA	NA	overview	NA	language	NE South America	-62.3404	-14.3798
+Wares	Wares	wai	NA	ware1254	Unattested	Tor-Kwerba, Orya-Tor, Tor	200	shifting	overview	7 (Shifting).	language	N Coast New Guinea	139.337	-2.47357
+Tukumanféd	Tukumanfed	tkf	NA	tuku1240	Unattested	Tupian, Tupí-Guaraní, Kawahib, Parintintin	0	extinct	NA	10 (Extinct).	language	NE South America	-61.42	-11.518
+Morerebi	Morerebi	xmo	NA	more1262	Unattested	Tupian, Tupí-Guaraní, Kawahib, Parintintin	100	threatened	NA	6b (Threatened).	language	NE South America	-61.3858	-8.66822
+Aguano	Aguano	aga	NA	agua1251	Unattested	Unclassified	0	extinct	overview	9 (Dormant).	language	NE South America	-75.8333	-5.25
+Agavotaguerra	Agavotaguerra	avo	NA	agav1236	Unattested	Unclassified	0	extinct	overview	10 (Extinct).	language	NE South America	-53.43936	-13.29849
+Gail	Gail	gic	NA	gail1235	Unclassifiable	Unclassified	20000	extinct	minimal	9 (Second language only).	language	S Africa	26.895	-28.77
+Haitian Vodoun Culture Language	Haitian_Vodoun_Culture_Language	hvc	NA	hait1241	Unclassifiable	Unclassified	0	extinct	NA	9 (Second language only).	language	Mesoamerica	-72.394	18.911
+Ná-Meo	NaMeo	neo	NA	name1237	Unclassifiable	Unclassified	1200	not endangered	NA	6a (Vigorous). Language of recognized ethnic group: Hmong.	language	Southeast Asia	106.435	22.4189
+Pijao	Pijao	pij	NA	pija1235	Unclassifiable	Unclassified	0	extinct	wordlist	10 (Extinct).	language	NE South America	-75.3333	0.49999
+Polari	Polari	pld	NA	pola1249	Unclassifiable	Unclassified	0	extinct	wordlist	9 (Second language only).	language	Europe	-1.39091	51.7866
+Quinqui	Quinqui	quq	NA	quin1236	Unclassifiable	Unclassified	NA	not endangered	socling	6a (Vigorous).	language	Europe	-3.68704	40.2638
+Traveller Scottish	Traveller_Scottish	trl	NA	trav1235	Unclassifiable	Unclassified	460	threatened	NA	6a (Vigorous).	language	Europe	-4.38593	55.9829
+Uamué	Uamue	uam	NA	uamu1236	Unclassifiable	Language isolate	0	extinct	wordlist	9 (Dormant).	language	NE South America	-38.75	-8.49999
+Karirí-Xocó	KaririXoco	kzw	NA	kari1255	Unclassifiable	Language isolate	0	extinct	NA	9 (Dormant).	language	NE South America	-36.3333	-9.84999
+Kaimbé	Kaimbe	xai	NA	kaim1235	Unclassifiable	Unclassified	0	extinct	wordlist	9 (Dormant).	language	NE South America	-39.0262926	-10.4795944
+Kambiwá	Kambiwa	xbw	NA	kamb1239	Unclassifiable	Unclassified	0	extinct	wordlist	9 (Dormant).	language	NE South America	-36.5993292	-8.6093993
+Kapinawá	Kapinawa	xpn	NA	kapi1248	Unclassifiable	Unclassified	0	extinct	overview	9 (Dormant).	language	NE South America	-38.3333	-8.49999
+Bazigar	Bazigar	bfr	NA	bazi1237	Unclassifiable	Dravidian, Unclassified	58200	shifting	overview	7 (Shifting).	language	Indic	77.2213	25.2977
+Carabayo	Carabayo	cby	NA	cara1245	Unclassifiable	Unclassified	150	extinct	wordlist	6b (Threatened).	language	NE South America	-69.9099	-1.7922
+Uru-Pa-In	UruPaIn	urp	NA	urup1235	Unclassifiable	Tupian, Tupí-Guaraní, Kawahib	200	not endangered	NA	6b (Threatened).	language	NE South America	-62.7226	-11.2946
